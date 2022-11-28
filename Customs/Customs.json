@@ -1,0 +1,50 @@
+[
+  {
+    "type": "custom",
+    "title": "动态提示栏",
+    "name": "animated_noticebar",
+    "UUID": "11f05bd5-1fec-4f56-8515-1db32d268f94"
+  },
+  {
+    "type": "custom",
+    "title": "存档按钮",
+    "name": "achives_button",
+    "UUID": "6b13669b-6da6-4417-89af-2e50247c1dba"
+  },
+  {
+    "type": "custom",
+    "title": "反馈提示",
+    "name": "feedback_hint",
+    "UUID": "ae37c1ce-4366-47d7-8a7a-69e59d43b209"
+  },
+  {
+    "type": "custom",
+    "title": "刷新栏",
+    "name": "RefreshBar",
+    "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6"
+  },
+  {
+    "type": "custom",
+    "title": "页脚",
+    "name": "Footer",
+    "UUID": "ec6b94aa-4bc0-4029-90c4-72cde308d88d"
+  },
+  {
+    "type": "custom",
+    "title": "[仅存档用] 1.19 实验快照1至rc1",
+    "name": "deepdark-rc1",
+    "UUID": "3b4b4407-156b-416b-b61f-5ef08641a8eb"
+  },
+  {
+    "type": "custom",
+    "title": "存档顶栏提示",
+    "name": "achive_noticebar",
+    "UUID": "cf554b4e-87ed-4f40-af22-6a89e6ed5cbd"
+  },
+  {
+    "type": "custom",
+    "title": "新闻主页两周年",
+    "name": "2any",
+    "UUID": "c6071ca0-b18e-4634-bbe0-9675b38a7527"
+  }
+]

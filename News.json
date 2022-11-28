@@ -1,0 +1,116 @@
+{
+  "name": "主页面",
+  "outputPath": "News.xaml",
+  "UUID": "b958dae4-b57a-45a1-bcde-68e7d2a3ae8c",
+  "cards": [
+    {
+      "UUID": "11f05bd5-1fec-4f56-8515-1db32d268f94",
+      "type": "Custom",
+      "name": "animated_noticebar"
+    },
+    {
+      "UUID": "8ac2f826-224e-407c-b1a3-0d9203e3dff1",
+      "type": "Separator",
+      "name": "最新新闻"
+    },
+    {
+      "UUID": "c6071ca0-b18e-4634-bbe0-9675b38a7527",
+      "type": "Custom",
+      "name": "2any"
+    },
+    {
+      "UUID": "c012326e-391e-46ae-839d-a6fbb72957a6",
+      "type": "Version",
+      "name": "1.19.3-pre2"
+    },
+    {
+      "UUID": "6c7e9fe6-7038-4979-a47e-c401111640c9",
+      "type": "Version",
+      "name": "1.19.3-pre1",
+      "isswaped": true
+    },
+    {
+      "UUID": "2a8a95f1-67d0-4986-b164-8368c6539667",
+      "type": "Normal",
+      "name": "mcl2022",
+      "isswaped": true
+    },
+    {
+      "UUID": "565107d3-6f3e-4d3e-bd75-994f04f3bfbe",
+      "type": "Separator",
+      "name": "最新版本"
+    },
+    {
+      "UUID": "e634446f-12d0-46e7-9ed1-228ff3fa28c3",
+      "type": "Version",
+      "name": "1.19.2",
+      "isswaped": true
+    },
+    {
+      "UUID": "6d516f32-231f-45e9-b0d5-3e82cff81bea",
+      "type": "Separator",
+      "name": "历史版本"
+    },
+    {
+      "UUID": "19037eb8-e673-4776-91c9-bde93ae6da7e",
+      "type": "Version",
+      "name": "22w46a",
+      "isswaped": true
+    },
+    {
+      "UUID": "4a49a44e-a474-4be8-8440-84a39b36c893",
+      "type": "Version",
+      "name": "22w45a",
+      "isswaped": true
+    },
+    {
+      "UUID": "9e110cf3-bd99-4c1a-a66e-80dca4cd8ef4",
+      "type": "Version",
+      "name": "22w44a",
+      "isswaped": true
+    },
+    {
+      "UUID": "73a0fe99-9fe2-4113-834c-4c8688a960b3",
+      "type": "Version",
+      "name": "22w43a",
+      "isswaped": true
+    },
+    {
+      "UUID": "c0736568-f362-459c-90f9-a3fe93442de8",
+      "type": "Version",
+      "name": "22w42a",
+      "isswaped": true
+    },
+    {
+      "UUID": "6b13669b-6da6-4417-89af-2e50247c1dba",
+      "type": "Custom",
+      "name": "achives_button"
+    },
+    {
+      "UUID": "88f844c1-6a9e-401f-9d7c-b23d4e758db8",
+      "type": "Separator",
+      "name": "周边新闻"
+    },
+    {
+      "UUID": "5953746d-ed45-437a-bf0d-c794a604e07f",
+      "type": "Normal",
+      "name": "migrateHint",
+      "isswaped": true
+    },
+    {
+      "UUID": "ae37c1ce-4366-47d7-8a7a-69e59d43b209",
+      "type": "Custom",
+      "name": "feedback_hint"
+    },
+    {
+      "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
+      "type": "Custom",
+      "name": "RefreshBar"
+    },
+    {
+      "UUID": "ec6b94aa-4bc0-4029-90c4-72cde308d88d",
+      "type": "Custom",
+      "name": "Footer"
+    }
+  ]
+}

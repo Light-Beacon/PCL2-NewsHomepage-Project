@@ -1,0 +1,16 @@
+#libs
+~\Versions\1.19.json
+~\Versions\1.20.json
+~\Customs\Customs.json
+~\Normals\Normals.json
+
+#output
+~\PCL2-NewsHomepage
+
+#base
+anim = ~\Animation.xaml
+styl = ~\Style.xaml
+
+#pages
+~\News.json
+~\Achives\1.19-2.json

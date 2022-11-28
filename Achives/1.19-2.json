@@ -1,0 +1,111 @@
+{
+  "name": "1.19存档",
+  "outputPath": "/archives/1.19.xaml",
+  "UUID": "fe282d8e-ddcb-46c2-93c6-2683a941d9fb",
+  "cards": [
+    {
+      "UUID": "cf554b4e-87ed-4f40-af22-6a89e6ed5cbd",
+      "type": "Custom",
+      "name": "achive_noticebar"
+    },
+    {
+      "UUID": "58ce2fa3-cf9d-4945-96de-74d75dfd1bce",
+      "type": "Separator",
+      "name": "历史版本"
+    },
+    {
+      "UUID": "c012326e-391e-46ae-839d-a6fbb72957a6",
+      "type": "Version",
+      "name": "1.19.3-pre2"
+    },
+    {
+      "UUID": "6c7e9fe6-7038-4979-a47e-c401111640c9",
+      "type": "Version",
+      "name": "1.19.3-pre1",
+      "isswaped": true
+    },
+    {
+      "UUID": "19037eb8-e673-4776-91c9-bde93ae6da7e",
+      "type": "Version",
+      "name": "22w46a",
+      "isswaped": true
+    },
+    {
+      "UUID": "4a49a44e-a474-4be8-8440-84a39b36c893",
+      "type": "Version",
+      "name": "22w45a",
+      "isswaped": true
+    },
+    {
+      "UUID": "9e110cf3-bd99-4c1a-a66e-80dca4cd8ef4",
+      "type": "Version",
+      "name": "22w44a",
+      "isswaped": true
+    },
+    {
+      "UUID": "73a0fe99-9fe2-4113-834c-4c8688a960b3",
+      "type": "Version",
+      "name": "22w43a",
+      "isswaped": true
+    },
+    {
+      "UUID": "c0736568-f362-459c-90f9-a3fe93442de8",
+      "type": "Version",
+      "name": "22w42a",
+      "isswaped": true
+    },
+    {
+      "UUID": "e634446f-12d0-46e7-9ed1-228ff3fa28c3",
+      "type": "Version",
+      "name": "1.19.2",
+      "isswaped": true
+    },
+    {
+      "UUID": "a5be9809-bf80-4958-95da-f9d03bd79afd",
+      "type": "Version",
+      "name": "1.19.2-rc2",
+      "isswaped": true
+    },
+    {
+      "UUID": "c473bbbd-14bb-4e47-a1b2-5461498e170f",
+      "type": "Version",
+      "name": "1.19.2-rc1",
+      "isswaped": true
+    },
+    {
+      "UUID": "db24856a-b917-4e15-8d63-a5ce4b32cef0",
+      "type": "Version",
+      "name": "1.19.1-rc3",
+      "isswaped": true
+    },
+    {
+      "UUID": "9d149226-92d3-45ac-ae7a-d0464f24f685",
+      "type": "Version",
+      "name": "1.19.1",
+      "isswaped": true
+    },
+    {
+      "UUID": "bf651878-6274-4cbb-9a12-006390a3f72c",
+      "type": "Version",
+      "name": "1.19.1-pre5",
+      "isswaped": true
+    },
+    {
+      "UUID": "888d2c06-cdc4-4d0f-baf0-a26ebdc22867",
+      "type": "Version",
+      "name": "1.19.1-pre6",
+      "isswaped": true
+    },
+    {
+      "UUID": "7e85b5ab-f6ec-4096-b7bc-d98d2f5d1f96",
+      "type": "Version",
+      "name": "1.19.1-rc2",
+      "isswaped": true
+    },
+    {
+      "UUID": "3b4b4407-156b-416b-b61f-5ef08641a8eb",
+      "type": "Custom",
+      "name": "deepdark-rc1"
+    }
+  ]
+}

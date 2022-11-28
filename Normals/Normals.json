@@ -1,0 +1,26 @@
+[
+  {
+    "type": "normal",
+    "title": "未迁移的账号在三月十日后无法正常游玩 Minecraft",
+    "name": "migrateHint",
+    "UUID": "5953746d-ed45-437a-bf0d-c794a604e07f"
+  },
+  {
+    "type": "normal",
+    "title": "原版披风下发时间延长到一个月",
+    "name": "newcape",
+    "UUID": "58843907-ba20-4ca1-bcd2-47c240a94cbd"
+  },
+  {
+    "type": "normal",
+    "title": "Minecraft Live 将在北京时间10月16日凌晨举行",
+    "name": "mcl2022date",
+    "UUID": "9047224f-d164-40df-b7e6-08f067f71b24"
+  },
+  {
+    "type": "normal",
+    "title": "Minecraft Live 消息速览",
+    "name": "mcl2022",
+    "UUID": "2a8a95f1-67d0-4986-b164-8368c6539667"
+  }
+]
