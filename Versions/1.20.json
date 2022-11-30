@@ -96,5 +96,19 @@
     "footnote": "本文来源：苦力怕533，漏洞翻译由SPXX提供",
     "filename": "1.20\\1.19.3-pre2.md",
     "UUID": "c012326e-391e-46ae-839d-a6fbb72957a6"
+  },
+  {
+    "name": "1.19.3-pre3",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.19.3-pre3",
+    "versionType": "Pre_Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-pre3.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-pre3",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1400691-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-pre-release-3",
+    "footnote": "漏洞翻译由SPXX提供",
+    "filename": "1.20\\1.19.3-pre3.md",
+    "UUID": "a6c945ad-ad19-46d9-899b-140505027d7b"
   }
 ]

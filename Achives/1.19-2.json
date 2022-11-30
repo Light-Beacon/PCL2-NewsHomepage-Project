@@ -14,9 +14,15 @@
       "name": "历史版本"
     },
     {
+      "UUID": "a6c945ad-ad19-46d9-899b-140505027d7b",
+      "type": "Version",
+      "name": "1.19.3-pre3"
+    },
+    {
       "UUID": "c012326e-391e-46ae-839d-a6fbb72957a6",
       "type": "Version",
-      "name": "1.19.3-pre2"
+      "name": "1.19.3-pre2",
+      "isswaped": true
     },
     {
       "UUID": "6c7e9fe6-7038-4979-a47e-c401111640c9",
