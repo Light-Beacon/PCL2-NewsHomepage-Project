@@ -110,5 +110,19 @@
     "footnote": "漏洞翻译由SPXX提供",
     "filename": "1.20\\1.19.3-pre3.md",
     "UUID": "a6c945ad-ad19-46d9-899b-140505027d7b"
+  },
+  {
+    "name": "1.19.3-rc1",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.19.3-rc1",
+    "versionType": "Release_Candidate",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc1.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-rc1",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1401299-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-1",
+    "footnote": "漏洞翻译由SPXX提供",
+    "filename": "1.20\\1.19.3-rc1.md",
+    "UUID": "4e75b454-8148-40b6-99f2-4af7159f3792"
   }
 ]
