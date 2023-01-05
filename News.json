@@ -14,9 +14,9 @@
       "name": "最新新闻"
     },
     {
-      "UUID": "4e75b454-8148-40b6-99f2-4af7159f3792",
+      "UUID": "6b8ca2e0-8eb4-45dd-aeff-e11b37f78517",
       "type": "Version",
-      "name": "1.19.3-rc1"
+      "name": "1.19.3"
     },
     {
       "UUID": "2a8a95f1-67d0-4986-b164-8368c6539667",
@@ -25,20 +25,21 @@
       "isswaped": true
     },
     {
-      "UUID": "565107d3-6f3e-4d3e-bd75-994f04f3bfbe",
-      "type": "Separator",
-      "name": "最新版本"
-    },
-    {
-      "UUID": "e634446f-12d0-46e7-9ed1-228ff3fa28c3",
-      "type": "Version",
-      "name": "1.19.2",
-      "isswaped": true
-    },
-    {
       "UUID": "6d516f32-231f-45e9-b0d5-3e82cff81bea",
       "type": "Separator",
       "name": "历史版本"
+    },
+    {
+      "UUID": "c0736568-f362-459c-90f9-a3fe93442de8",
+      "type": "Version",
+      "name": "22w42a",
+      "isswaped": true
+    },
+    {
+      "UUID": "4e75b454-8148-40b6-99f2-4af7159f3792",
+      "type": "Version",
+      "name": "1.19.3-rc1",
+      "isswaped": true
     },
     {
       "UUID": "a6c945ad-ad19-46d9-899b-140505027d7b",
@@ -50,18 +51,6 @@
       "UUID": "c012326e-391e-46ae-839d-a6fbb72957a6",
       "type": "Version",
       "name": "1.19.3-pre2",
-      "isswaped": true
-    },
-    {
-      "UUID": "6c7e9fe6-7038-4979-a47e-c401111640c9",
-      "type": "Version",
-      "name": "1.19.3-pre1",
-      "isswaped": true
-    },
-    {
-      "UUID": "19037eb8-e673-4776-91c9-bde93ae6da7e",
-      "type": "Version",
-      "name": "22w46a",
       "isswaped": true
     },
     {

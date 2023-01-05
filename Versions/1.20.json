@@ -124,5 +124,33 @@
     "footnote": "漏洞翻译由SPXX提供",
     "filename": "1.20\\1.19.3-rc1.md",
     "UUID": "4e75b454-8148-40b6-99f2-4af7159f3792"
+  },
+  {
+    "name": "1.19.3-rc2",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.19.3-rc2",
+    "versionType": "Release_Candidate",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc2.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-rc2",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1401299-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-1",
+    "footnote": "漏洞翻译由SPXX提供",
+    "filename": "1.20\\1.19.3-rc2.md",
+    "UUID": "944f651e-9cac-4462-b19d-a62898b9b17a"
+  },
+  {
+    "name": "1.19.3-rc3",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.19.3-rc3",
+    "versionType": "Release_Candidate",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc3.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-rc3",
+    "mcbbsUrl": "未发布",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-3",
+    "footnote": "",
+    "filename": "1.20\\1.19.3-rc3.md",
+    "UUID": "75957b01-cf14-4a7a-aa80-c27c2b1e46a4"
   }
 ]
