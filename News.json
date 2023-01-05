@@ -64,11 +64,6 @@
       "name": "周边新闻"
     },
     {
-      "UUID": "c6071ca0-b18e-4634-bbe0-9675b38a7527",
-      "type": "Custom",
-      "name": "2any"
-    },
-    {
       "UUID": "5953746d-ed45-437a-bf0d-c794a604e07f",
       "type": "Normal",
       "name": "migrateHint",

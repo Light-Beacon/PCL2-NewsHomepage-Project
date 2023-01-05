@@ -1,4 +1,4 @@
-    <Border Background="#CCFFFFFF" Height="420" Margin="-25,10,-25,-200" BorderThickness="0,2,0,0" BorderBrush="#AAAAAAAA">
+    <Border Background="#A0FFFFFF" Height="20720" Margin="-25,10,-25,-20500" BorderThickness="0,2,0,0" BorderBrush="#AAAAAAAA">
       <StackPanel Margin="40,15,0,10">
         <TextBlock Text="PCL2新闻主页" FontSize="16" Margin="0,5,5,5" />
         <TextBlock Text="By：最亮的信标（Light Beacon）" />
@@ -20,24 +20,23 @@
           <local:MyTextButton Text="CC BY-NC-SA 4.0" EventType="打开网页" EventData="https://creativecommons.org/licenses/by-nc-sa/4.0/ " />
           <TextBlock Text=" 授权。" />
         </StackPanel>
-        
-        <Border Height="200" Background="{DynamicResource ColorBrush7}" Margin="-40,10,0,0">
-        <StackPanel>
-          <Grid Margin="0,7,0,15" >
-            <Grid.ColumnDefinitions>
-              <ColumnDefinition Width="1*">
-              </ColumnDefinition>
-              <ColumnDefinition Width="100">
-            </ColumnDefinition>
-            <ColumnDefinition Width="1*">
-              </ColumnDefinition>
-            </Grid.ColumnDefinitions>
-            <Line X1="0" X2="100" Stroke="{DynamicResource ColorBrush5}" StrokeThickness="1.5" HorizontalAlignment="Center" Stretch="Fill" Grid.Column="0" />
-            <TextBlock Text="到  底  啦" HorizontalAlignment="Center" FontSize="14" Foreground="{DynamicResource ColorBrush5}" Grid.Column="1" VerticalAlignment="Center" />
-            <Line X1="0" X2="100" Stroke="{DynamicResource ColorBrush5}" StrokeThickness="1.5" HorizontalAlignment="Center" Stretch="Fill" Grid.Column="2" />
-          </Grid>
-          <TextBlock Margin="105,2,0,0" Text="（PCL2提示）" />
+        <Border Height="20500" Background="{DynamicResource ColorBrush7}" Opacity="0.3" Margin="-40,10,0,0">
+          <StackPanel>
+            <Grid Margin="0,7,0,15">
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*">
+                </ColumnDefinition>
+                <ColumnDefinition Width="100">
+                </ColumnDefinition>
+                <ColumnDefinition Width="1*">
+                </ColumnDefinition>
+              </Grid.ColumnDefinitions>
+              <Line X1="0" X2="100" Stroke="{DynamicResource ColorBrush3}" StrokeThickness="1.5" HorizontalAlignment="Center" Stretch="Fill" Grid.Column="0" />
+              <TextBlock Text="到  底  啦" HorizontalAlignment="Center" FontSize="14" Foreground="{DynamicResource ColorBrush4}" Grid.Column="1" VerticalAlignment="Center" />
+              <Line X1="0" X2="100" Stroke="{DynamicResource ColorBrush3}" StrokeThickness="1.5" HorizontalAlignment="Center" Stretch="Fill" Grid.Column="2" />
+            </Grid>
+            <TextBlock Margin="105,2,0,0" Text="（PCL2提示）" />
           </StackPanel>
-          </Border>
+        </Border>
       </StackPanel>
     </Border>
