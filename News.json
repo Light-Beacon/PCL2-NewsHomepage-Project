@@ -9,11 +9,6 @@
       "name": "animated_noticebar"
     },
     {
-      "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
-      "type": "Custom",
-      "name": "RefreshBar"
-    },
-    {
       "UUID": "8ac2f826-224e-407c-b1a3-0d9203e3dff1",
       "type": "Separator",
       "name": "最新新闻"
@@ -89,6 +84,11 @@
       "UUID": "ae37c1ce-4366-47d7-8a7a-69e59d43b209",
       "type": "Custom",
       "name": "feedback_hint"
+    },
+    {
+      "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
+      "type": "Custom",
+      "name": "RefreshBar"
     },
     {
       "UUID": "ec6b94aa-4bc0-4029-90c4-72cde308d88d",
