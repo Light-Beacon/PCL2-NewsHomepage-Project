@@ -152,5 +152,33 @@
     "footnote": "",
     "filename": "1.20\\1.19.3-rc3.md",
     "UUID": "75957b01-cf14-4a7a-aa80-c27c2b1e46a4"
+  },
+  {
+    "name": "23w03a",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "23w03a",
+    "versionType": "Snapshot",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w03a.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w03a",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1419376-1-1.html",
+    "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w03a",
+    "footnote": "译文来源：电量量（MCBBS），漏洞翻译来源：SPXX",
+    "filename": "1.20\\23w03a.md",
+    "UUID": "6dbab7a4-de10-41ff-bdcf-938bdaf4ad65"
+  },
+  {
+    "name": "23w04a",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "23w04a",
+    "versionType": "Snapshot",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w04a.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w04a",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1421388-1-1.html",
+    "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w04a",
+    "footnote": "漏洞翻译来源：SPXX",
+    "filename": "1.20\\23w04a.md",
+    "UUID": "b6455a50-2de3-40b6-8ccb-8c756f911652"
   }
 ]

@@ -9,14 +9,19 @@
       "name": "animated_noticebar"
     },
     {
+      "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
+      "type": "Custom",
+      "name": "RefreshBar"
+    },
+    {
       "UUID": "8ac2f826-224e-407c-b1a3-0d9203e3dff1",
       "type": "Separator",
       "name": "最新新闻"
     },
     {
-      "UUID": "6b8ca2e0-8eb4-45dd-aeff-e11b37f78517",
+      "UUID": "b6455a50-2de3-40b6-8ccb-8c756f911652",
       "type": "Version",
-      "name": "1.19.3"
+      "name": "23w04a"
     },
     {
       "UUID": "2a8a95f1-67d0-4986-b164-8368c6539667",
@@ -25,9 +30,26 @@
       "isswaped": true
     },
     {
+      "UUID": "ce258f97-7287-4b1e-a24a-67028005cefa",
+      "type": "Separator",
+      "name": "最新版本"
+    },
+    {
+      "UUID": "6b8ca2e0-8eb4-45dd-aeff-e11b37f78517",
+      "type": "Version",
+      "name": "1.19.3",
+      "isswaped": true
+    },
+    {
       "UUID": "6d516f32-231f-45e9-b0d5-3e82cff81bea",
       "type": "Separator",
       "name": "历史版本"
+    },
+    {
+      "UUID": "6dbab7a4-de10-41ff-bdcf-938bdaf4ad65",
+      "type": "Version",
+      "name": "23w03a",
+      "isswaped": true
     },
     {
       "UUID": "c0736568-f362-459c-90f9-a3fe93442de8",
@@ -67,11 +89,6 @@
       "UUID": "ae37c1ce-4366-47d7-8a7a-69e59d43b209",
       "type": "Custom",
       "name": "feedback_hint"
-    },
-    {
-      "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
-      "type": "Custom",
-      "name": "RefreshBar"
     },
     {
       "UUID": "ec6b94aa-4bc0-4029-90c4-72cde308d88d",

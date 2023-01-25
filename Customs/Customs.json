@@ -46,5 +46,11 @@
     "title": "新闻主页两周年",
     "name": "2any",
     "UUID": "c6071ca0-b18e-4634-bbe0-9675b38a7527"
+  },
+  {
+    "type": "custom",
+    "title": "2023新年快乐",
+    "name": "2023NewYear",
+    "UUID": "f857c1a2-9b48-4030-afaf-04e0f0e0201a"
   }
 ]
