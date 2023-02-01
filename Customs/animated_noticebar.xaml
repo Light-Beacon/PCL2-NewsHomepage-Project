@@ -4,7 +4,7 @@
                 📰 新闻主页由 Light Beacon （最亮的信标）制作与维护，空辰KC帮助维护。
     </TextBlock>
         <TextBlock x:Name="Hint2" FontWeight="Bold" FontSize="12" VerticalAlignment="Center" Foreground="#00000000">
-                🎇 往下翻查看新闻。动画默认播放两遍，想重看可以点刷新。新年快乐！
+                📰 新闻主页由 Light Beacon （最亮的信标）制作与维护，空辰KC帮助维护。
     </TextBlock>
     </Grid>
 </Border>
