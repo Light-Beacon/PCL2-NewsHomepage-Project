@@ -180,5 +180,19 @@
     "footnote": "漏洞翻译来源：SPXX",
     "filename": "1.20\\23w04a.md",
     "UUID": "b6455a50-2de3-40b6-8ccb-8c756f911652"
+  },
+  {
+    "name": "23w05a",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "23w05a",
+    "versionType": "Snapshot",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w05a.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w05a",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1424054-1-1.html",
+    "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w05a",
+    "footnote": "这次脚注没东西，因为全部都是我翻的，没啥好bug也",
+    "filename": "1.20\\23w05a.md",
+    "UUID": "58091db2-53fd-4b6c-8bfa-47f42b68d186"
   }
 ]
