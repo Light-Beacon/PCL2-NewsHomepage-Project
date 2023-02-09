@@ -194,5 +194,19 @@
     "footnote": "这次脚注没东西，因为全部都是我翻的，没啥好bug也",
     "filename": "1.20\\23w05a.md",
     "UUID": "58091db2-53fd-4b6c-8bfa-47f42b68d186"
+  },
+  {
+    "name": "23w06a",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "23w06a",
+    "versionType": "Snapshot",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w06a.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w06a",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1426293-1-1.html",
+    "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w06a",
+    "footnote": "本文译文来源 killWE（MCBBS），漏洞翻译由SPXX提供",
+    "filename": "1.20\\23w06a.md",
+    "UUID": "7ffbc41d-2a6c-43bc-91d8-31ea1393ff19"
   }
 ]
