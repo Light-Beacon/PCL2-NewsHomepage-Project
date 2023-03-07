@@ -1,1 +1,1 @@
-<TextBlock Text="{content}" Style="{StaticResource h{$level}}" />
+<TextBlock Text="{$content}" Style="{StaticResource h{$level}}" />
