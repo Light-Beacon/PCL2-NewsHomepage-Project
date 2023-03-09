@@ -19,6 +19,11 @@
       "name": "1.19.4-pre4"
     },
     {
+      "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
+      "type": "Normal",
+      "name": "1.20themeUpdate"
+    },
+    {
       "UUID": "ce258f97-7287-4b1e-a24a-67028005cefa",
       "type": "Separator",
       "name": "最新版本"
