@@ -264,5 +264,19 @@
     "footnote": "本文来源：Don_Trueno（MCBBS），漏洞翻译由SPXX提供",
     "filename": "1.20\\1.19.4-pre3.md",
     "UUID": "3f78128d-29c1-4ff4-982e-56ba802d0cb7"
+  },
+  {
+    "name": "1.19.4-pre4",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.19.4-pre4",
+    "versionType": "Pre_Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-pre4.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.4-pre4",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1432097-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-pre-release-4",
+    "footnote": "本文来源：苦力怕553（MCBBS），漏洞翻译来源：SPXX",
+    "filename": "1.20\\1.19.4-pre4.md",
+    "UUID": "55071749-fde0-48e6-b6d9-71f2a62048fa"
   }
 ]
