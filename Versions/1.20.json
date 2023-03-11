@@ -278,5 +278,19 @@
     "footnote": "本文来源：苦力怕553（MCBBS），漏洞翻译来源：SPXX",
     "filename": "1.20\\1.19.4-pre4.md",
     "UUID": "55071749-fde0-48e6-b6d9-71f2a62048fa"
+  },
+  {
+    "name": "1.19.4-rc2",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.19.4-rc2",
+    "versionType": "Release_Candidate",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-rc2.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.4-rc2",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1432301-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-release-candidate-1",
+    "footnote": "本文来源inuEbisu（MCBBS）",
+    "filename": "1.20\\1.19.4-rc2.md",
+    "UUID": "9a532baa-a249-4830-be58-3b877dc826c1"
   }
 ]

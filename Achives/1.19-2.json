@@ -14,6 +14,71 @@
       "name": "历史版本"
     },
     {
+      "UUID": "9a532baa-a249-4830-be58-3b877dc826c1",
+      "type": "Version",
+      "name": "1.19.4-rc2"
+    },
+    {
+      "UUID": "55071749-fde0-48e6-b6d9-71f2a62048fa",
+      "type": "Version",
+      "name": "1.19.4-pre4",
+      "isswaped": true
+    },
+    {
+      "UUID": "3f78128d-29c1-4ff4-982e-56ba802d0cb7",
+      "type": "Version",
+      "name": "1.19.4-pre3",
+      "isswaped": true
+    },
+    {
+      "UUID": "a35e4e4e-7431-4ccb-9f70-1bc777813d6a",
+      "type": "Version",
+      "name": "1.19.4-pre2",
+      "isswaped": true
+    },
+    {
+      "UUID": "57060661-b326-4664-b6bf-b19232699494",
+      "type": "Version",
+      "name": "1.19.4-pre1",
+      "isswaped": true
+    },
+    {
+      "UUID": "fb74a07d-8870-453f-b9ab-cc7491ac63d2",
+      "type": "Version",
+      "name": "23w07a",
+      "isswaped": true
+    },
+    {
+      "UUID": "7ffbc41d-2a6c-43bc-91d8-31ea1393ff19",
+      "type": "Version",
+      "name": "23w06a",
+      "isswaped": true
+    },
+    {
+      "UUID": "58091db2-53fd-4b6c-8bfa-47f42b68d186",
+      "type": "Version",
+      "name": "23w05a",
+      "isswaped": true
+    },
+    {
+      "UUID": "b6455a50-2de3-40b6-8ccb-8c756f911652",
+      "type": "Version",
+      "name": "23w04a",
+      "isswaped": true
+    },
+    {
+      "UUID": "6dbab7a4-de10-41ff-bdcf-938bdaf4ad65",
+      "type": "Version",
+      "name": "23w03a",
+      "isswaped": true
+    },
+    {
+      "UUID": "75957b01-cf14-4a7a-aa80-c27c2b1e46a4",
+      "type": "Version",
+      "name": "1.19.3-rc3",
+      "isswaped": true
+    },
+    {
       "UUID": "944f651e-9cac-4462-b19d-a62898b9b17a",
       "type": "Version",
       "name": "1.19.3-rc2",
