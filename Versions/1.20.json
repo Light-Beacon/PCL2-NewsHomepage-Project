@@ -292,5 +292,19 @@
     "footnote": "本文来源inuEbisu（MCBBS）",
     "filename": "1.20\\1.19.4-rc2.md",
     "UUID": "9a532baa-a249-4830-be58-3b877dc826c1"
+  },
+  {
+    "name": "1.19.4-rc3",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.19.4-rc3",
+    "versionType": "Release_Candidate",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-rc3.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.4-rc3",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1433030-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-release-candidate-3",
+    "footnote": "",
+    "filename": "1.20\\1.19.4-rc3.md",
+    "UUID": "0dc57b6c-b4c6-47b5-a051-f3aef87ac54f"
   }
 ]

@@ -16,7 +16,8 @@
     {
       "UUID": "9a532baa-a249-4830-be58-3b877dc826c1",
       "type": "Version",
-      "name": "1.19.4-rc2"
+      "name": "1.19.4-rc2",
+      "isswaped": true
     },
     {
       "UUID": "55071749-fde0-48e6-b6d9-71f2a62048fa",
