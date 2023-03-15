@@ -124,5 +124,19 @@
     "footnote": "本文译文来源：苦力怕553，关于1.20的特性详见22w42a",
     "filename": "1.19\\1.19.3.md",
     "UUID": "6b8ca2e0-8eb4-45dd-aeff-e11b37f78517"
+  },
+  {
+    "name": "1.19.4",
+    "type": "version",
+    "fatherversion": "1.19",
+    "versionID": "1.19.4",
+    "versionType": "Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.4.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.4",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1433267-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-java-edition-1-19-4",
+    "footnote": "考古系统终于被 Mojang 考古出来了.jpg",
+    "filename": "1.19\\1.19.4.md",
+    "UUID": "85420ff5-c27e-4f32-a081-4cac3723898d"
   }
 ]
