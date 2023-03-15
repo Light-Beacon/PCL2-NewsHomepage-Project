@@ -1,1 +1,1 @@
-<local:MyHint Margin="0,8,0,2" IsWarn="{$warn}" Text="{$content}" />
+<local:MyHint Margin="0,4,0,8" IsWarn="{$warn}" Text="{$content}" />
