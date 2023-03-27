@@ -9,6 +9,21 @@
       "name": "animated_noticebar"
     },
     {
+      "UUID": "8ac2f826-224e-407c-b1a3-0d9203e3dff1",
+      "type": "Separator",
+      "name": "最新新闻"
+    },
+    {
+      "UUID": "220e9dbb-fc61-4a7c-9770-1d1c17caa8a4",
+      "type": "Version",
+      "name": "23w12a"
+    },
+    {
+      "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
+      "type": "Normal",
+      "name": "1.20themeUpdate"
+    },
+    {
       "UUID": "ce258f97-7287-4b1e-a24a-67028005cefa",
       "type": "Separator",
       "name": "最新版本"
@@ -16,17 +31,8 @@
     {
       "UUID": "85420ff5-c27e-4f32-a081-4cac3723898d",
       "type": "Version",
-      "name": "1.19.4"
-    },
-    {
-      "UUID": "8ac2f826-224e-407c-b1a3-0d9203e3dff1",
-      "type": "Separator",
-      "name": "最新新闻"
-    },
-    {
-      "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
-      "type": "Normal",
-      "name": "1.20themeUpdate"
+      "name": "1.19.4",
+      "isswaped": true
     },
     {
       "UUID": "6d516f32-231f-45e9-b0d5-3e82cff81bea",
