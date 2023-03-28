@@ -52,5 +52,11 @@
     "title": "2023新年快乐",
     "name": "2023NewYear",
     "UUID": "f857c1a2-9b48-4030-afaf-04e0f0e0201a"
+  },
+  {
+    "type": "custom",
+    "title": "404",
+    "name": "404",
+    "UUID": "c5694253-b318-4e4b-810e-df0492fa593e"
   }
 ]

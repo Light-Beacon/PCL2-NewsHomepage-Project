@@ -1,0 +1,23 @@
+{
+  "name": "404",
+  "outputPath": "/errorpages/404.xaml",
+  "UUID": "f667e8f1-2f83-45a9-8079-a3c60b2544f1",
+  "NOSTYLE":true,
+  "cards": [
+    {
+      "UUID": "11f05bd5-1fec-4f56-8515-1db32d268f94",
+      "type": "Custom",
+      "name": "animated_noticebar"
+    },
+    {
+      "UUID": "c5694253-b318-4e4b-810e-df0492fa593e",
+      "type": "Custom",
+      "name": "404"
+    },
+    {
+      "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
+      "type": "Custom",
+      "name": "RefreshBar"
+    }
+  ]
+}
