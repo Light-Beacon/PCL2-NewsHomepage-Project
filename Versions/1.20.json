@@ -320,5 +320,19 @@
     "footnote": "本文来源 a1294790523 （MCBBS）略有更改，漏洞翻译来源 SPXX",
     "filename": "1.20\\23w12a.md",
     "UUID": "220e9dbb-fc61-4a7c-9770-1d1c17caa8a4"
+  },
+  {
+    "name": "23w13a",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "23w13a",
+    "versionType": "Snapshot",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w13a.jpg",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w13a",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1436107-1-1.html",
+    "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-snapshot-23w13a",
+    "footnote": "漏洞翻译来源：SPXX",
+    "filename": "1.20\\23w13a.md",
+    "UUID": "8c939f3a-084e-4763-b1a9-db262cd5b9f8"
   }
 ]
