@@ -28,5 +28,11 @@
     "title": "Mojang 宣布 1.20 更新主题为：TRAILS & TALES",
     "name": "1.20themeUpdate",
     "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef"
+  },
+  {
+    "type": "normal",
+    "title": "新闻主页正在测试！",
+    "name": "nhpTestHint",
+    "UUID": "a795aeb4-de40-4221-84fe-70e198235613"
   }
 ]

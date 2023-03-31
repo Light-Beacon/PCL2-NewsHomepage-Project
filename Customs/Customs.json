@@ -58,5 +58,11 @@
     "title": "404",
     "name": "404",
     "UUID": "c5694253-b318-4e4b-810e-df0492fa593e"
+  },
+  {
+    "type": "custom",
+    "title": "跳转卡片",
+    "name": "jumpCard",
+    "UUID": "8f356519-3b8f-485a-a068-543c6e10503b"
   }
 ]
