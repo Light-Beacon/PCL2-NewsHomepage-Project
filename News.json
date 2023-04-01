@@ -14,9 +14,15 @@
       "name": "最新新闻"
     },
     {
+      "UUID": "cf3583e8-b6cb-4cc9-a6fb-4f2d2a8c3655",
+      "type": "Version",
+      "name": "23w13a_or_b"
+    },
+    {
       "UUID": "8c939f3a-084e-4763-b1a9-db262cd5b9f8",
       "type": "Version",
-      "name": "23w13a"
+      "name": "23w13a",
+      "isswaped": true
     },
     {
       "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
