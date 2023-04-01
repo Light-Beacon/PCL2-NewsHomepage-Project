@@ -8,8 +8,8 @@
 <ColumnDefinition Width="10*">
 </ColumnDefinition>
 </Grid.ColumnDefinitions>
-<local:MyButton Style="{StaticResource Read0}" EventData="{$officallink}" ColorType="Highlight" />
+<local:MyButton Style="{StaticResource Read0}" EventData="{$wikilink}" ColorType="Highlight" />
 <local:MyButton Style="{StaticResource Read1}" EventData="{$mcbbslink}" />
-<local:MyButton Style="{StaticResource Read2}" EventData="{$wikilink}" />
+<local:MyButton Style="{StaticResource Read2}" EventData="{$officallink}" />
 </Grid>
 </GroupBox>
