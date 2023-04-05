@@ -16,7 +16,8 @@
     {
       "UUID": "cf3583e8-b6cb-4cc9-a6fb-4f2d2a8c3655",
       "type": "Version",
-      "name": "23w13a_or_b"
+      "name": "23w13a_or_b",
+      "isswaped": true
     },
     {
       "UUID": "dad7dffb-3e4a-4de3-aa9f-30e5671a8baf",

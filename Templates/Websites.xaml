@@ -12,4 +12,4 @@
 <local:MyButton Style="{StaticResource Read1}" EventData="{$mcbbslink}" />
 <local:MyButton Style="{StaticResource Read2}" EventData="{$officallink}" />
 </Grid>
-</GroupBox>
+</GroupBox>继续
