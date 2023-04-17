@@ -34,5 +34,11 @@
     "title": "新闻主页正在测试！",
     "name": "nhpTestHint",
     "UUID": "a795aeb4-de40-4221-84fe-70e198235613"
+  },
+  {
+    "type": "normal",
+    "title": "疑似 Minecraft 官网国区购买入口关闭",
+    "name": "CannotBuyInMainland",
+    "UUID": "ad669241-8180-4045-aa59-7b56a509a049"
   }
 ]

@@ -14,6 +14,11 @@
       "name": "最新新闻"
     },
     {
+      "UUID": "ad669241-8180-4045-aa59-7b56a509a049",
+      "type": "Normal",
+      "name": "CannotBuyInMainland"
+    },
+    {
       "UUID": "219e7922-b180-462b-84ea-1e27b3332f19",
       "type": "Version",
       "name": "23w14a"
