@@ -61,6 +61,12 @@
   },
   {
     "type": "custom",
+    "title": "MCLG发售",
+    "name": "mclg",
+    "UUID": "b9554652-9b77-46c5-a748-d02903dd4aeb"
+  },
+  {
+    "type": "custom",
     "title": "跳转卡片",
     "name": "jumpCard",
     "UUID": "8f356519-3b8f-485a-a068-543c6e10503b"
