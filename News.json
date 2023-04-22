@@ -26,7 +26,8 @@
     {
       "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
       "type": "Normal",
-      "name": "1.20themeUpdate"
+      "name": "1.20themeUpdate",
+      "isswaped": true
     },
     {
       "UUID": "ce258f97-7287-4b1e-a24a-67028005cefa",
@@ -75,7 +76,8 @@
     {
       "UUID": "ad669241-8180-4045-aa59-7b56a509a049",
       "type": "Normal",
-      "name": "CannotBuyInMainland"
+      "name": "CannotBuyInMainland",
+      "isswaped": true
     },
     {
       "UUID": "cf3583e8-b6cb-4cc9-a6fb-4f2d2a8c3655",
