@@ -64,6 +64,11 @@
       "isswaped": true
     },
     {
+      "UUID": "8f356519-3b8f-485a-a068-543c6e10503b",
+      "type": "Custom",
+      "name": "jumpCard"
+    },
+    {
       "UUID": "6b13669b-6da6-4417-89af-2e50247c1dba",
       "type": "Custom",
       "name": "achives_button"
@@ -77,12 +82,6 @@
       "UUID": "ad669241-8180-4045-aa59-7b56a509a049",
       "type": "Normal",
       "name": "CannotBuyInMainland",
-      "isswaped": true
-    },
-    {
-      "UUID": "cf3583e8-b6cb-4cc9-a6fb-4f2d2a8c3655",
-      "type": "Version",
-      "name": "23w13a_or_b",
       "isswaped": true
     },
     {
