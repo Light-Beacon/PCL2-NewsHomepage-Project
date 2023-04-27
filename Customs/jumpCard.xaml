@@ -3,9 +3,9 @@
     <Grid>
       <Grid.ColumnDefinitions>
         <ColumnDefinition Width="1*"/>
-        <ColumnDefinition Width="100"/>
+        <ColumnDefinition Width="100"/> 
       </Grid.ColumnDefinitions>
-      <local:MyComboBox x:Name="jumpbox" Height="30" Text="1.19存档">
+      <local:MyComboBox x:Name="jumpbox" Height="30" SelectedIndex="0">
         <local:MyComboBoxItem Content="主页面"/>
         <local:MyComboBoxItem Content="1.19存档"/>
       </local:MyComboBox> 
