@@ -418,5 +418,47 @@
     "footnote": "漏洞翻译来源SPXX",
     "filename": "1.20\\1.20-pre2.md",
     "UUID": "24e55c7c-f924-4a8c-a04d-1c9f811fc497"
+  },
+  {
+    "name": "1.20-pre3",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.20-pre3",
+    "versionType": "Pre_Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre3.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20-pre3",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1444620-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-2",
+    "footnote": "漏洞翻译来源SPXX",
+    "filename": "1.20\\1.20-pre3.md",
+    "UUID": "308c141f-aaf1-45db-98bc-0e44bdf3f418"
+  },
+  {
+    "name": "1.20-pre4",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.20-pre4",
+    "versionType": "Pre_Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre4.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20-pre4",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1444620-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-2",
+    "footnote": "",
+    "filename": "1.20\\1.20-pre4.md",
+    "UUID": "8e5b05a1-ed62-4b29-b08e-8cf32b0157bd"
+  },
+  {
+    "name": "1.20-pre5",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.20-pre5",
+    "versionType": "Pre_Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre5.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20-pre5",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1445237-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-5",
+    "footnote": "漏洞翻译来源SPXX",
+    "filename": "1.20\\1.20-pre5.md",
+    "UUID": "aafb5374-a6a2-4676-b469-38eae4237ccb"
   }
 ]
