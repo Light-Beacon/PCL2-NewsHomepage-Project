@@ -64,11 +64,6 @@
       "name": "jumpCard"
     },
     {
-      "UUID": "6b13669b-6da6-4417-89af-2e50247c1dba",
-      "type": "Custom",
-      "name": "achives_button"
-    },
-    {
       "UUID": "88f844c1-6a9e-401f-9d7c-b23d4e758db8",
       "type": "Separator",
       "name": "周边新闻"
