@@ -3,21 +3,25 @@
 ~\Versions\1.20.json
 ~\Customs\Customs.json
 ~\Normals\Normals.json
-~\Special\AprilFools\AprilLib.json
+~\Library\April\AprilLib.json
 
 #output
 ~\PCL2-NewsHomepage
 
 #base
-mark = ~\Mark.xaml
-anim = ~\Animation.xaml
-styl = ~\Style.xaml
+mark = ~\Components\Mark.xaml
+anim = ~\Components\Animation.xaml
+styl = ~\Components\Style.xaml
 
 #pages
-~\News.json
-~\Special\AprilFools\April.json
-~\ErrorPages\404.json
-~\Achives\1.17存档.xaml
-~\Achives\1.18存档.xaml
-~\Achives\1.19-2.json
-~\Achives\1.20.json
+~\Pages\News.json
+
+~\Pages\Achives\1.17存档.xaml
+~\Pages\Achives\1.18存档.xaml
+~\Pages\Achives\1.19-2.json
+~\Pages\Achives\1.20.json
+
+~\Pages\April\2023.json
+~\Pages\Errors\404.json
+
+~\Pages\TestPage.json

@@ -1,5 +1,6 @@
 @echo off
 chcp 65001
+cd ..
 cd .\PCL2-NewsHomepage
 :loop1
 echo 正在推送资源文件...

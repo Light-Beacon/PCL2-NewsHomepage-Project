@@ -1,9 +1,9 @@
 @echo off
-cd .\PCL2-NewsHomepage
 chcp 65001
+cd ..
 :loop
 echo 正在推送...
-git push origin main
+git push origin master
 if %ERRORLEVEL%==0 (
     echo 已成功推送到远端仓库！
     exit /b 0
