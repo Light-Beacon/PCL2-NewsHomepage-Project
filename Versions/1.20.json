@@ -460,5 +460,19 @@
     "footnote": "漏洞翻译来源SPXX",
     "filename": "1.20\\1.20-pre5.md",
     "UUID": "aafb5374-a6a2-4676-b469-38eae4237ccb"
+  },
+  {
+    "name": "1.20-pre6",
+    "type": "version",
+    "fatherversion": "1.20",
+    "versionID": "1.20-pre6",
+    "versionType": "Pre_Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre6.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20-pre6",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1445237-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-5",
+    "footnote": "本文来源斯乌（MCBBS），略有更改。漏洞翻译来源SPXX",
+    "filename": "1.20\\1.20-pre6.md",
+    "UUID": "6dbeba19-ecbc-4ee1-bde9-122b52f363f3"
   }
 ]

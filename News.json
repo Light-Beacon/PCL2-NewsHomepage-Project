@@ -14,9 +14,9 @@
       "name": "最新新闻"
     },
     {
-      "UUID": "aafb5374-a6a2-4676-b469-38eae4237ccb",
+      "UUID": "6dbeba19-ecbc-4ee1-bde9-122b52f363f3",
       "type": "Version",
-      "name": "1.20-pre5"
+      "name": "1.20-pre6"
     },
     {
       "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
@@ -41,6 +41,12 @@
       "name": "历史版本"
     },
     {
+      "UUID": "aafb5374-a6a2-4676-b469-38eae4237ccb",
+      "type": "Version",
+      "name": "1.20-pre5",
+      "isswaped": true
+    },
+    {
       "UUID": "8e5b05a1-ed62-4b29-b08e-8cf32b0157bd",
       "type": "Version",
       "name": "1.20-pre4",
@@ -50,12 +56,6 @@
       "UUID": "308c141f-aaf1-45db-98bc-0e44bdf3f418",
       "type": "Version",
       "name": "1.20-pre3",
-      "isswaped": true
-    },
-    {
-      "UUID": "24e55c7c-f924-4a8c-a04d-1c9f811fc497",
-      "type": "Version",
-      "name": "1.20-pre2",
       "isswaped": true
     },
     {
