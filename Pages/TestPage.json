@@ -1,9 +1,9 @@
 {
-    "name": "测试页面",
-    "outputPath": "/pages/test.xaml",
-    "UUID": "e10bd948-b6b5-429a-99c9-60845d20b7ca",
-    "alias": [
-      "test"
-    ],
-    "cards": []
+  "name": "测试页面",
+  "outputPath": "/pages/test.xaml",
+  "UUID": "9b11afbd-245f-40ed-8345-d4ef1fabe90c",
+  "alias": [
+    "test"
+  ],
+  "cards": []
 }

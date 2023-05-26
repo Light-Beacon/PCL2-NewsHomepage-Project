@@ -10,7 +10,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1365048-1-1.html",
     "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-19-1-release-candidate-2",
     "footnote": "本次共修复了 2 个漏洞，本文来源于 Minecraft Wiki",
-    "filename": "1.19\\1.19.1-rc2.md",
+    "resource": "1.19.1-rc2.md",
     "UUID": "7e85b5ab-f6ec-4096-b7bc-d98d2f5d1f96"
   },
   {
@@ -24,7 +24,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1364665-1-1.html",
     "websiteUrl": "https://www.minecraft.net/en-us/article/minecraft-1-19-1-pre-release-6",
     "footnote": "本次共修复了11个bug，本文来源于 苦力怕553 在MCBBS上的译文",
-    "filename": "1.19\\1.19.1-pre6.md",
+    "resource": "1.19.1-pre6.md",
     "UUID": "888d2c06-cdc4-4d0f-baf0-a26ebdc22867"
   },
   {
@@ -38,7 +38,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1362948-1-1.html",
     "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-19-1-pre-release-5",
     "footnote": "本文使用了由卡狗于MCBBS上发布的译文",
-    "filename": "1.19\\1.19.1-pre5.md",
+    "resource": "1.19.1-pre5.md",
     "UUID": "bf651878-6274-4cbb-9a12-006390a3f72c"
   },
   {
@@ -52,7 +52,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1367391-1-1.html",
     "websiteUrl": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-1",
     "footnote": "本次共修复了 41 个bug，本文来源于 AzureZeng（MCBBS） 上的译文",
-    "filename": "1.19\\1.19.1.md",
+    "resource": "1.19.1.md",
     "UUID": "9d149226-92d3-45ac-ae7a-d0464f24f685"
   },
   {
@@ -66,7 +66,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1366950-1-1.html",
     "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-19-1-release-candidate-3",
     "footnote": "本次共修复了10个bug，本文来源于 苦力怕553 （MCBBS） 上的译文",
-    "filename": "1.19\\1.19.1-rc3.md",
+    "resource": "1.19.1-rc3.md",
     "UUID": "db24856a-b917-4e15-8d63-a5ce4b32cef0"
   },
   {
@@ -80,7 +80,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1370332-1-1.html",
     "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-19-2-release-candidate-1",
     "footnote": "您好是的，纯粹是水版本...",
-    "filename": "1.19\\1.19.2-rc1.md",
+    "resource": "1.19.2-rc1.md",
     "UUID": "c473bbbd-14bb-4e47-a1b2-5461498e170f"
   },
   {
@@ -94,7 +94,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1370643-1-1.html",
     "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-19-2-release-candidate-1",
     "footnote": "MJ又在水版本号了",
-    "filename": "1.19\\1.19.2-rc2.md",
+    "resource": "1.19.2-rc2.md",
     "UUID": "a5be9809-bf80-4958-95da-f9d03bd79afd"
   },
   {
@@ -108,7 +108,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1370782-1-1.html",
     "websiteUrl": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-2",
     "footnote": "本文来源 ff98sha（MCBBS）",
-    "filename": "1.19\\1.19.2.md",
+    "resource": "1.19.2.md",
     "UUID": "e634446f-12d0-46e7-9ed1-228ff3fa28c3"
   },
   {
@@ -122,7 +122,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1402930-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-java-edition-1-19-3",
     "footnote": "本文译文来源：苦力怕553，关于1.20的特性详见22w42a",
-    "filename": "1.19\\1.19.3.md",
+    "resource": "1.19.3.md",
     "UUID": "6b8ca2e0-8eb4-45dd-aeff-e11b37f78517"
   },
   {
@@ -136,7 +136,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1433267-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-java-edition-1-19-4",
     "footnote": "考古系统终于被 Mojang 考古出来了.jpg",
-    "filename": "1.19\\1.19.4.md",
+    "resource": "1.19.4.md",
     "UUID": "85420ff5-c27e-4f32-a081-4cac3723898d"
   }
 ]

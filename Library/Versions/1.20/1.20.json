@@ -10,7 +10,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1390920-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w42a",
     "footnote": "可能不是最终译名",
-    "filename": "1.20\\22w42a.md",
+    "resource": "22w42a.md",
     "UUID": "c0736568-f362-459c-90f9-a3fe93442de8"
   },
   {
@@ -24,7 +24,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1391775-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w43a",
     "footnote": "本文翻译取自sky_tianle（MCBBS），漏洞翻译由 SPXX 志愿者提供",
-    "filename": "1.20\\22w43a.md",
+    "resource": "22w43a.md",
     "UUID": "73a0fe99-9fe2-4113-834c-4c8688a960b3"
   },
   {
@@ -38,7 +38,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1393549-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w44a",
     "footnote": "本文来源：苦力怕553（MCBBS）、漏洞翻译由 SPXX 提供",
-    "filename": "1.20\\22w44a.md",
+    "resource": "22w44a.md",
     "UUID": "9e110cf3-bd99-4c1a-a66e-80dca4cd8ef4"
   },
   {
@@ -52,7 +52,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1395379-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w45a",
     "footnote": "部分译文来自cutemiku，漏洞翻译由SPXX提供",
-    "filename": "1.20\\22w45a.md",
+    "resource": "22w45a.md",
     "UUID": "4a49a44e-a474-4be8-8440-84a39b36c893"
   },
   {
@@ -66,7 +66,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1397102-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w46a",
     "footnote": "本文翻译由苦力怕553（MCBBS）提供，略有更改，漏洞翻译由SPXX提供",
-    "filename": "1.20\\22w46a.md",
+    "resource": "22w46a.md",
     "UUID": "19037eb8-e673-4776-91c9-bde93ae6da7e"
   },
   {
@@ -80,7 +80,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1398770-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-pre-release-1",
     "footnote": "本文来源：苦力怕533，漏洞翻译由SPXX提供",
-    "filename": "1.20\\1.19.3-pre1.md",
+    "resource": "1.19.3-pre1.md",
     "UUID": "6c7e9fe6-7038-4979-a47e-c401111640c9"
   },
   {
@@ -94,7 +94,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1399007-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-pre-release-1",
     "footnote": "本文来源：苦力怕533，漏洞翻译由SPXX提供",
-    "filename": "1.20\\1.19.3-pre2.md",
+    "resource": "1.19.3-pre2.md",
     "UUID": "c012326e-391e-46ae-839d-a6fbb72957a6"
   },
   {
@@ -108,7 +108,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1400691-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-pre-release-3",
     "footnote": "漏洞翻译由SPXX提供",
-    "filename": "1.20\\1.19.3-pre3.md",
+    "resource": "1.19.3-pre3.md",
     "UUID": "a6c945ad-ad19-46d9-899b-140505027d7b"
   },
   {
@@ -122,7 +122,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1401299-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-1",
     "footnote": "漏洞翻译由SPXX提供",
-    "filename": "1.20\\1.19.3-rc1.md",
+    "resource": "1.19.3-rc1.md",
     "UUID": "4e75b454-8148-40b6-99f2-4af7159f3792"
   },
   {
@@ -136,7 +136,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1401299-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-1",
     "footnote": "漏洞翻译由SPXX提供",
-    "filename": "1.20\\1.19.3-rc2.md",
+    "resource": "1.19.3-rc2.md",
     "UUID": "944f651e-9cac-4462-b19d-a62898b9b17a"
   },
   {
@@ -150,7 +150,7 @@
     "mcbbsUrl": "未发布",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-3",
     "footnote": "",
-    "filename": "1.20\\1.19.3-rc3.md",
+    "resource": "1.19.3-rc3.md",
     "UUID": "75957b01-cf14-4a7a-aa80-c27c2b1e46a4"
   },
   {
@@ -164,7 +164,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1419376-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w03a",
     "footnote": "译文来源：电量量（MCBBS），漏洞翻译来源：SPXX",
-    "filename": "1.20\\23w03a.md",
+    "resource": "23w03a.md",
     "UUID": "6dbab7a4-de10-41ff-bdcf-938bdaf4ad65"
   },
   {
@@ -178,7 +178,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1421388-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w04a",
     "footnote": "漏洞翻译来源：SPXX",
-    "filename": "1.20\\23w04a.md",
+    "resource": "23w04a.md",
     "UUID": "b6455a50-2de3-40b6-8ccb-8c756f911652"
   },
   {
@@ -192,7 +192,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1424054-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w05a",
     "footnote": "这次脚注没东西，因为全部都是我翻的，没啥好bug也",
-    "filename": "1.20\\23w05a.md",
+    "resource": "23w05a.md",
     "UUID": "58091db2-53fd-4b6c-8bfa-47f42b68d186"
   },
   {
@@ -206,7 +206,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1426293-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w06a",
     "footnote": "本文译文来源 killWE（MCBBS），漏洞翻译由SPXX提供",
-    "filename": "1.20\\23w06a.md",
+    "resource": "23w06a.md",
     "UUID": "7ffbc41d-2a6c-43bc-91d8-31ea1393ff19"
   },
   {
@@ -220,7 +220,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1428108-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w07a",
     "footnote": "本文内容部分来源Don_Trueno（MCBBS），漏洞翻译来源SPXX",
-    "filename": "1.20\\23w07a.md",
+    "resource": "23w07a.md",
     "UUID": "fb74a07d-8870-453f-b9ab-cc7491ac63d2"
   },
   {
@@ -234,7 +234,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1429481-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-pre-release-1",
     "footnote": "本文来源Don_Trueno（MCBBS），漏洞翻译来源SPXX",
-    "filename": "1.20\\1.19.4-pre1.md",
+    "resource": "1.19.4-pre1.md",
     "UUID": "57060661-b326-4664-b6bf-b19232699494"
   },
   {
@@ -248,7 +248,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1430448-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-pre-release-2",
     "footnote": "本文来源自：sky_tianle（MCBBS），漏洞翻译来源SPXX",
-    "filename": "1.20\\1.19.4-pre2.md",
+    "resource": "1.19.4-pre2.md",
     "UUID": "a35e4e4e-7431-4ccb-9f70-1bc777813d6a"
   },
   {
@@ -262,7 +262,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1430743-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-pre-release-2",
     "footnote": "本文来源：Don_Trueno（MCBBS），漏洞翻译由SPXX提供",
-    "filename": "1.20\\1.19.4-pre3.md",
+    "resource": "1.19.4-pre3.md",
     "UUID": "3f78128d-29c1-4ff4-982e-56ba802d0cb7"
   },
   {
@@ -276,7 +276,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1432097-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-pre-release-4",
     "footnote": "本文来源：苦力怕553（MCBBS），漏洞翻译来源：SPXX",
-    "filename": "1.20\\1.19.4-pre4.md",
+    "resource": "1.19.4-pre4.md",
     "UUID": "55071749-fde0-48e6-b6d9-71f2a62048fa"
   },
   {
@@ -290,7 +290,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1432301-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-release-candidate-1",
     "footnote": "本文来源inuEbisu（MCBBS）",
-    "filename": "1.20\\1.19.4-rc2.md",
+    "resource": "1.19.4-rc2.md",
     "UUID": "9a532baa-a249-4830-be58-3b877dc826c1"
   },
   {
@@ -304,7 +304,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1433030-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-release-candidate-3",
     "footnote": "",
-    "filename": "1.20\\1.19.4-rc3.md",
+    "resource": "1.19.4-rc3.md",
     "UUID": "0dc57b6c-b4c6-47b5-a051-f3aef87ac54f"
   },
   {
@@ -318,7 +318,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1434770-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w12a",
     "footnote": "本文来源 a1294790523 （MCBBS）略有更改，漏洞翻译来源 SPXX",
-    "filename": "1.20\\23w12a.md",
+    "resource": "23w12a.md",
     "UUID": "220e9dbb-fc61-4a7c-9770-1d1c17caa8a4"
   },
   {
@@ -332,7 +332,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1436107-1-1.html",
     "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-snapshot-23w13a",
     "footnote": "漏洞翻译来源：SPXX",
-    "filename": "1.20\\23w13a.md",
+    "resource": "23w13a.md",
     "UUID": "8c939f3a-084e-4763-b1a9-db262cd5b9f8"
   },
   {
@@ -346,7 +346,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1437694-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w14a",
     "footnote": "漏洞翻译来源：SPXX",
-    "filename": "1.20\\23w14a.md",
+    "resource": "23w14a.md",
     "UUID": "219e7922-b180-462b-84ea-1e27b3332f19"
   },
   {
@@ -360,7 +360,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1440581-1-1.html",
     "websiteUrl": "https://www.minecraft.net/en-us/article/minecraft-snapshot-23w16a",
     "footnote": "本文来源 a1294790523 （MCBBS），漏洞翻译来源 SPXX",
-    "filename": "1.20\\23w16a.md",
+    "resource": "23w16a.md",
     "UUID": "5dbd622f-fdd6-422a-9b76-8e089c9991f4"
   },
   {
@@ -374,7 +374,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1441343-1-1.html",
     "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w17a",
     "footnote": "本文来源：干就完了（MCBBS），漏洞翻译来源SPXX",
-    "filename": "1.20\\23w17a.md",
+    "resource": "23w17a.md",
     "UUID": "f66dfa48-b1b3-45e1-93d6-7cb1a8005414"
   },
   {
@@ -388,7 +388,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1442418-1-1.html",
     "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-snapshot-23w18a",
     "footnote": "本文翻译来源：希铁石z，漏洞翻译来源：SPXX",
-    "filename": "1.20\\23w18a.md",
+    "resource": "23w18a.md",
     "UUID": "de051ec9-2625-4c5c-92ca-6daa5a4bbe22"
   },
   {
@@ -402,7 +402,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1443288-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-1",
     "footnote": "本文来源 Don_Trueno，漏洞翻译由 SPXX 提供",
-    "filename": "1.20\\1.20-pre1.md",
+    "resource": "1.20-pre1.md",
     "UUID": "f18deab6-cc62-44cc-9745-3caa1297d451"
   },
   {
@@ -416,7 +416,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1444199-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-2",
     "footnote": "漏洞翻译来源SPXX",
-    "filename": "1.20\\1.20-pre2.md",
+    "resource": "1.20-pre2.md",
     "UUID": "24e55c7c-f924-4a8c-a04d-1c9f811fc497"
   },
   {
@@ -430,7 +430,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1444620-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-2",
     "footnote": "漏洞翻译来源SPXX",
-    "filename": "1.20\\1.20-pre3.md",
+    "resource": "1.20-pre3.md",
     "UUID": "308c141f-aaf1-45db-98bc-0e44bdf3f418"
   },
   {
@@ -444,7 +444,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1444620-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-2",
     "footnote": "",
-    "filename": "1.20\\1.20-pre4.md",
+    "resource": "1.20-pre4.md",
     "UUID": "8e5b05a1-ed62-4b29-b08e-8cf32b0157bd"
   },
   {
@@ -458,7 +458,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1445237-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-5",
     "footnote": "漏洞翻译来源SPXX",
-    "filename": "1.20\\1.20-pre5.md",
+    "resource": "1.20-pre5.md",
     "UUID": "aafb5374-a6a2-4676-b469-38eae4237ccb"
   },
   {
@@ -472,7 +472,7 @@
     "mcbbsUrl": "https://www.mcbbs.net/thread-1445237-1-1.html",
     "websiteUrl": "https://minecraft.net/article/minecraft-1-20-pre-release-5",
     "footnote": "本文来源斯乌（MCBBS），略有更改。漏洞翻译来源SPXX",
-    "filename": "1.20\\1.20-pre6.md",
+    "resource": "1.20-pre6.md",
     "UUID": "6dbeba19-ecbc-4ee1-bde9-122b52f363f3"
   }
 ]
