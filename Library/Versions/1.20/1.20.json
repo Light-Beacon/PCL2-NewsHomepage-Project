@@ -2,7 +2,6 @@
   {
     "name": "22w42a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "22w42a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w42a.png",
@@ -16,7 +15,6 @@
   {
     "name": "22w43a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "22w43a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w43a.png",
@@ -30,7 +28,6 @@
   {
     "name": "22w44a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "22w44a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w44a.png",
@@ -44,7 +41,6 @@
   {
     "name": "22w45a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "22w45a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w45a.png",
@@ -58,7 +54,6 @@
   {
     "name": "22w46a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "22w46a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w46a.png",
@@ -72,7 +67,6 @@
   {
     "name": "1.19.3-pre1",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.3-pre1",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-pre1.png",
@@ -86,7 +80,6 @@
   {
     "name": "1.19.3-pre2",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.3-pre2",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-pre1.png",
@@ -100,7 +93,6 @@
   {
     "name": "1.19.3-pre3",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.3-pre3",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-pre3.png",
@@ -114,7 +106,6 @@
   {
     "name": "1.19.3-rc1",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.3-rc1",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc1.png",
@@ -128,7 +119,6 @@
   {
     "name": "1.19.3-rc2",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.3-rc2",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc2.png",
@@ -142,7 +132,6 @@
   {
     "name": "1.19.3-rc3",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.3-rc3",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc3.png",
@@ -156,7 +145,6 @@
   {
     "name": "23w03a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w03a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w03a.png",
@@ -170,7 +158,6 @@
   {
     "name": "23w04a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w04a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w04a.png",
@@ -184,7 +171,6 @@
   {
     "name": "23w05a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w05a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w05a.png",
@@ -198,7 +184,6 @@
   {
     "name": "23w06a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w06a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w06a.png",
@@ -212,7 +197,6 @@
   {
     "name": "23w07a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w07a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w07a.png",
@@ -226,7 +210,6 @@
   {
     "name": "1.19.4-pre1",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.4-pre1",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-pre1.png",
@@ -240,7 +223,6 @@
   {
     "name": "1.19.4-pre2",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.4-pre2",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-pre2.png",
@@ -254,7 +236,6 @@
   {
     "name": "1.19.4-pre3",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.4-pre3",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-pre3.png",
@@ -268,7 +249,6 @@
   {
     "name": "1.19.4-pre4",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.4-pre4",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-pre4.png",
@@ -282,7 +262,6 @@
   {
     "name": "1.19.4-rc2",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.4-rc2",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-rc2.png",
@@ -296,7 +275,6 @@
   {
     "name": "1.19.4-rc3",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.19.4-rc3",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.4-rc3.png",
@@ -310,7 +288,6 @@
   {
     "name": "23w12a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w12a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w12a.png",
@@ -324,7 +301,6 @@
   {
     "name": "23w13a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w13a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w13a.jpg",
@@ -338,7 +314,6 @@
   {
     "name": "23w14a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w14a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w14a.png",
@@ -352,7 +327,6 @@
   {
     "name": "23w16a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w16a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w16a.jpg",
@@ -366,7 +340,6 @@
   {
     "name": "23w17a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w17a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w17a.png",
@@ -380,7 +353,6 @@
   {
     "name": "23w18a",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "23w18a",
     "versionType": "Snapshot",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w18a.jpg",
@@ -394,7 +366,6 @@
   {
     "name": "1.20-pre1",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.20-pre1",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre1.png",
@@ -408,7 +379,6 @@
   {
     "name": "1.20-pre2",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.20-pre2",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre2.png",
@@ -422,7 +392,6 @@
   {
     "name": "1.20-pre3",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.20-pre3",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre3.png",
@@ -436,7 +405,6 @@
   {
     "name": "1.20-pre4",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.20-pre4",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre4.png",
@@ -450,7 +418,6 @@
   {
     "name": "1.20-pre5",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.20-pre5",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre5.png",
@@ -464,7 +431,6 @@
   {
     "name": "1.20-pre6",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.20-pre6",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre6.png",
@@ -478,7 +444,6 @@
   {
     "name": "1.20-pre7",
     "type": "version",
-    "fatherversion": "1.20",
     "versionID": "1.20-pre7",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-pre7.jpg",
@@ -488,5 +453,18 @@
     "footnote": "",
     "resource": "1.20-pre7.md",
     "UUID": "1fe30db4-8bfa-4717-a7b1-c1e239ec3e14"
+  },
+  {
+    "name": "1.20-rc1",
+    "type": "version",
+    "versionID": "1.20-rc1",
+    "versionType": "Release_Candidate",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.20-rc1.png",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20-rc1",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1446414-1-1.html",
+    "websiteUrl": "https://minecraft.net/article/minecraft-1-20-release-candidate-1",
+    "footnote": "漏洞翻译来源SPXX",
+    "resource": "1.20-rc1.md",
+    "UUID": "e507b22c-3c50-4241-b9cd-d96573f16532"
   }
 ]

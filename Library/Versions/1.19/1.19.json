@@ -2,7 +2,6 @@
   {
     "name": "1.19.1-rc2",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.1-rc2",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.1-rc2.jpg",
@@ -16,7 +15,6 @@
   {
     "name": "1.19.1-pre6",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.1-pre6",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.1-pre6.png",
@@ -30,7 +28,6 @@
   {
     "name": "1.19.1-pre5",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.1-pre5",
     "versionType": "Pre_Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.1-pre5.png",
@@ -44,7 +41,6 @@
   {
     "name": "1.19.1",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.1",
     "versionType": "Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.1.png",
@@ -58,7 +54,6 @@
   {
     "name": "1.19.1-rc3",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.1-rc3",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.1-rc3.png",
@@ -72,7 +67,6 @@
   {
     "name": "1.19.2-rc1",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.2-rc1",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.2-rc1.jpg",
@@ -86,7 +80,6 @@
   {
     "name": "1.19.2-rc2",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.2-rc2",
     "versionType": "Release_Candidate",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.2-rc1.jpg",
@@ -100,7 +93,6 @@
   {
     "name": "1.19.2",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.2",
     "versionType": "Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.2.jpg",
@@ -114,7 +106,6 @@
   {
     "name": "1.19.3",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.3",
     "versionType": "Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.3.png",
@@ -128,7 +119,6 @@
   {
     "name": "1.19.4",
     "type": "version",
-    "fatherversion": "1.19",
     "versionID": "1.19.4",
     "versionType": "Release",
     "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.4.png",
