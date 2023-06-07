@@ -50,7 +50,7 @@
   },
   {
     "type": "normal",
-    "title": "突发事件 - 部分 Mod 与服务器插件被植入恶意程序后发布",
+    "title": "突发事件 - 部分 Mod 与服务器插件被植入恶意程序",
     "name": "CFAlert",
     "UUID": "faf218a5-83ea-4b8f-894a-079b43b2edee",
     "resource": "CFAlert.md"
