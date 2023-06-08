@@ -466,5 +466,18 @@
     "footnote": "漏洞翻译来源SPXX",
     "resource": "1.20-rc1.md",
     "UUID": "e507b22c-3c50-4241-b9cd-d96573f16532"
+  },
+  {
+    "name": "1.20",
+    "type": "version",
+    "versionID": "1.20",
+    "versionType": "Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/Normal/1_20_camel1.jpg",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20",
+    "mcbbsUrl": "https://www.mcbbs.net/thread-1447580-1-1.html",
+    "websiteUrl": "https://www.minecraft.net/en-us/article/trails-tales-update-out-today-java",
+    "footnote": "本文来源：teddyxlandlee（MCBBS）有删改",
+    "resource": "1.20.md",
+    "UUID": "973bab44-87cd-4468-97d9-6fe5ce04f9ad"
   }
 ]

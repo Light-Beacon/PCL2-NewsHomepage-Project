@@ -14,53 +14,19 @@
       "name": "最新新闻"
     },
     {
+      "UUID": "973bab44-87cd-4468-97d9-6fe5ce04f9ad",
+      "type": "Version",
+      "name": "1.20"
+    },
+    {
       "UUID": "faf218a5-83ea-4b8f-894a-079b43b2edee",
       "type": "Normal",
       "name": "CFAlert"
     },
     {
-      "UUID": "e507b22c-3c50-4241-b9cd-d96573f16532",
-      "type": "Version",
-      "name": "1.20-rc1"
-    },
-    {
       "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
       "type": "Normal",
       "name": "1.20themeUpdate",
-      "isswaped": true
-    },
-    {
-      "UUID": "ce258f97-7287-4b1e-a24a-67028005cefa",
-      "type": "Separator",
-      "name": "最新版本"
-    },
-    {
-      "UUID": "85420ff5-c27e-4f32-a081-4cac3723898d",
-      "type": "Version",
-      "name": "1.19.4",
-      "isswaped": true
-    },
-    {
-      "UUID": "6d516f32-231f-45e9-b0d5-3e82cff81bea",
-      "type": "Separator",
-      "name": "历史版本"
-    },
-    {
-      "UUID": "1fe30db4-8bfa-4717-a7b1-c1e239ec3e14",
-      "type": "Version",
-      "name": "1.20-pre7",
-      "isswaped": true
-    },
-    {
-      "UUID": "6dbeba19-ecbc-4ee1-bde9-122b52f363f3",
-      "type": "Version",
-      "name": "1.20-pre6",
-      "isswaped": true
-    },
-    {
-      "UUID": "aafb5374-a6a2-4676-b469-38eae4237ccb",
-      "type": "Version",
-      "name": "1.20-pre5",
       "isswaped": true
     },
     {
@@ -72,11 +38,6 @@
       "UUID": "88f844c1-6a9e-401f-9d7c-b23d4e758db8",
       "type": "Separator",
       "name": "周边新闻"
-    },
-    {
-      "UUID": "b9554652-9b77-46c5-a748-d02903dd4aeb",
-      "type": "Custom",
-      "name": "mclg"
     },
     {
       "UUID": "ae37c1ce-4366-47d7-8a7a-69e59d43b209",
