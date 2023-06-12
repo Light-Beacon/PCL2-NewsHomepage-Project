@@ -14,19 +14,25 @@
       "name": "最新新闻"
     },
     {
-      "UUID": "973bab44-87cd-4468-97d9-6fe5ce04f9ad",
+      "UUID": "2b4f3511-1d7a-4e7c-b06b-227643764c7b",
       "type": "Version",
-      "name": "1.20"
+      "name": "1.20.1"
     },
     {
       "UUID": "faf218a5-83ea-4b8f-894a-079b43b2edee",
       "type": "Normal",
-      "name": "CFAlert"
+      "name": "CFAlert",
+      "isswaped": true
     },
     {
-      "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
-      "type": "Normal",
-      "name": "1.20themeUpdate",
+      "UUID": "de82728f-5229-49ba-948b-c255bb0cfe34",
+      "type": "Separator",
+      "name": "历史版本"
+    },
+    {
+      "UUID": "973bab44-87cd-4468-97d9-6fe5ce04f9ad",
+      "type": "Version",
+      "name": "1.20",
       "isswaped": true
     },
     {

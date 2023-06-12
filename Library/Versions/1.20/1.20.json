@@ -479,5 +479,18 @@
     "footnote": "本文来源：teddyxlandlee（MCBBS）有删改",
     "resource": "1.20.md",
     "UUID": "973bab44-87cd-4468-97d9-6fe5ce04f9ad"
+  },
+  {
+    "name": "1.20.1",
+    "type": "version",
+    "versionID": "1.20.1",
+    "versionType": "Release",
+    "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/Normal/1_20_sniffer1.jpg",
+    "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20.1",
+    "mcbbsUrl": "尚未发布",
+    "websiteUrl": "https://minecraft.net/article/minecraft--java-edition-1-20-1",
+    "footnote": "本文来源 Fandom Minecraft Wiki",
+    "resource": "1.20.1.md",
+    "UUID": "2b4f3511-1d7a-4e7c-b06b-227643764c7b"
   }
 ]
