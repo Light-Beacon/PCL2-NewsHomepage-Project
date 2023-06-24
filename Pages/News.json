@@ -19,12 +19,6 @@
       "name": "1.20.1"
     },
     {
-      "UUID": "faf218a5-83ea-4b8f-894a-079b43b2edee",
-      "type": "Normal",
-      "name": "CFAlert",
-      "isswaped": true
-    },
-    {
       "UUID": "de82728f-5229-49ba-948b-c255bb0cfe34",
       "type": "Separator",
       "name": "历史版本"
