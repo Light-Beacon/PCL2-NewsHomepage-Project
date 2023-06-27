@@ -1,58 +1,61 @@
-[
-  {
-    "type": "normal",
-    "title": "未迁移的账号在三月十日后无法正常游玩 Minecraft",
-    "name": "migrateHint",
-    "UUID": "5953746d-ed45-437a-bf0d-c794a604e07f",
-    "resource": "migrateHint.md"
-  },
-  {
-    "type": "normal",
-    "title": "原版披风下发时间延长到一个月",
-    "name": "newcape",
-    "UUID": "58843907-ba20-4ca1-bcd2-47c240a94cbd",
-    "resource": "newcape.md"
-  },
-  {
-    "type": "normal",
-    "title": "Minecraft Live 将在北京时间10月16日凌晨举行",
-    "name": "mcl2022date",
-    "UUID": "9047224f-d164-40df-b7e6-08f067f71b24",
-    "resource": "mcl2022date.md"
-  },
-  {
-    "type": "normal",
-    "title": "Minecraft Live 消息速览",
-    "name": "mcl2022",
-    "UUID": "2a8a95f1-67d0-4986-b164-8368c6539667",
-    "resource": "mcl2022.md"
-  },
-  {
-    "type": "normal",
-    "title": "Mojang 宣布 1.20 更新主题为：TRAILS & TALES",
-    "name": "1.20themeUpdate",
-    "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
-    "resource": "1.20themeUpdate.md"
-  },
-  {
-    "type": "normal",
-    "title": "新闻主页正在测试！",
-    "name": "nhpTestHint",
-    "UUID": "a795aeb4-de40-4221-84fe-70e198235613",
-    "resource": "nhpTestHint.md"
-  },
-  {
-    "type": "normal",
-    "title": "疑似 Minecraft 官网国区购买入口关闭",
-    "name": "CannotBuyInMainland",
-    "UUID": "ad669241-8180-4045-aa59-7b56a509a049",
-    "resource": "CannotBuyInMainland.md"
-  },
-  {
-    "type": "normal",
-    "title": "突发事件 - 部分 Mod 与服务器插件被植入恶意程序",
-    "name": "CFAlert",
-    "UUID": "faf218a5-83ea-4b8f-894a-079b43b2edee",
-    "resource": "CFAlert.md"
-  }
-]
+{
+  "name": "Normals",
+  "cards": [
+    {
+      "type": "normal",
+      "title": "未迁移的账号在三月十日后无法正常游玩 Minecraft",
+      "name": "migrateHint",
+      "UUID": "5953746d-ed45-437a-bf0d-c794a604e07f",
+      "resource": "migrateHint.md"
+    },
+    {
+      "type": "normal",
+      "title": "原版披风下发时间延长到一个月",
+      "name": "newcape",
+      "UUID": "58843907-ba20-4ca1-bcd2-47c240a94cbd",
+      "resource": "newcape.md"
+    },
+    {
+      "type": "normal",
+      "title": "Minecraft Live 将在北京时间10月16日凌晨举行",
+      "name": "mcl2022date",
+      "UUID": "9047224f-d164-40df-b7e6-08f067f71b24",
+      "resource": "mcl2022date.md"
+    },
+    {
+      "type": "normal",
+      "title": "Minecraft Live 消息速览",
+      "name": "mcl2022",
+      "UUID": "2a8a95f1-67d0-4986-b164-8368c6539667",
+      "resource": "mcl2022.md"
+    },
+    {
+      "type": "normal",
+      "title": "Mojang 宣布 1.20 更新主题为：TRAILS & TALES",
+      "name": "1.20themeUpdate",
+      "UUID": "c7aa9c63-b885-4636-8cf9-7183d10fa9ef",
+      "resource": "1.20themeUpdate.md"
+    },
+    {
+      "type": "normal",
+      "title": "新闻主页正在测试！",
+      "name": "nhpTestHint",
+      "UUID": "a795aeb4-de40-4221-84fe-70e198235613",
+      "resource": "nhpTestHint.md"
+    },
+    {
+      "type": "normal",
+      "title": "疑似 Minecraft 官网国区购买入口关闭",
+      "name": "CannotBuyInMainland",
+      "UUID": "ad669241-8180-4045-aa59-7b56a509a049",
+      "resource": "CannotBuyInMainland.md"
+    },
+    {
+      "type": "normal",
+      "title": "突发事件 - 部分 Mod 与服务器插件被植入恶意程序",
+      "name": "CFAlert",
+      "UUID": "faf218a5-83ea-4b8f-894a-079b43b2edee",
+      "resource": "CFAlert.md"
+    }
+  ]
+}

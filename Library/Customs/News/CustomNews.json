@@ -1,16 +1,19 @@
-[
-  {
-    "type": "custom",
-    "title": "[仅存档用] 1.19 实验快照1至rc1",
-    "name": "deepdark-rc1",
-    "UUID": "3b4b4407-156b-416b-b61f-5ef08641a8eb",
-    "resource": "deepdark-rc1.xaml"
-  },
-  {
-    "type": "custom",
-    "title": "MCLG发售",
-    "name": "mclg",
-    "UUID": "b9554652-9b77-46c5-a748-d02903dd4aeb",
-    "resource": "mclg.xaml"
-  }
-]
+{
+  "name": "CustomNews",
+  "cards": [
+    {
+      "type": "custom",
+      "title": "[仅存档用] 1.19 实验快照1至rc1",
+      "name": "deepdark-rc1",
+      "UUID": "3b4b4407-156b-416b-b61f-5ef08641a8eb",
+      "resource": "deepdark-rc1.xaml"
+    },
+    {
+      "type": "custom",
+      "title": "MCLG发售",
+      "name": "mclg",
+      "UUID": "b9554652-9b77-46c5-a748-d02903dd4aeb",
+      "resource": "mclg.xaml"
+    }
+  ]
+}

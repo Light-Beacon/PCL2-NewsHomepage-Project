@@ -6,53 +6,53 @@
     {
       "UUID": "11f05bd5-1fec-4f56-8515-1db32d268f94",
       "type": "Custom",
-      "name": "animated_noticebar"
+      "name": "Elements:animated_noticebar"
     },
     {
       "UUID": "8ac2f826-224e-407c-b1a3-0d9203e3dff1",
       "type": "Separator",
-      "name": "最新新闻"
+      "name": "Virtual:最新新闻"
     },
     {
       "UUID": "2b4f3511-1d7a-4e7c-b06b-227643764c7b",
       "type": "Version",
-      "name": "1.20.1"
+      "name": "1_20:1.20.1"
     },
     {
       "UUID": "de82728f-5229-49ba-948b-c255bb0cfe34",
       "type": "Separator",
-      "name": "历史版本"
+      "name": "Virtual:历史版本"
     },
     {
       "UUID": "973bab44-87cd-4468-97d9-6fe5ce04f9ad",
       "type": "Version",
-      "name": "1.20",
+      "name": "1_20:1.20",
       "isswaped": true
     },
     {
       "UUID": "8f356519-3b8f-485a-a068-543c6e10503b",
       "type": "Custom",
-      "name": "jumpCard"
+      "name": "Elements:jumpCard"
     },
     {
       "UUID": "88f844c1-6a9e-401f-9d7c-b23d4e758db8",
       "type": "Separator",
-      "name": "周边新闻"
+      "name": "Virtual:周边新闻"
     },
     {
       "UUID": "ae37c1ce-4366-47d7-8a7a-69e59d43b209",
       "type": "Custom",
-      "name": "feedback_hint"
+      "name": "Elements:feedback_hint"
     },
     {
       "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
       "type": "Custom",
-      "name": "RefreshBar"
+      "name": "Elements:RefreshBar"
     },
     {
       "UUID": "ec6b94aa-4bc0-4029-90c4-72cde308d88d",
       "type": "Custom",
-      "name": "Footer"
+      "name": "Elements:Footer"
     }
   ]
 }
