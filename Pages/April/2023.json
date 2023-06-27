@@ -4,48 +4,38 @@
   "UUID": "55f97db1-d93d-44b6-b8d2-31122a012c5f",
   "cards": [
     {
-      "UUID": "11f05bd5-1fec-4f56-8515-1db32d268f94",
       "type": "Custom",
       "name": "Elements:animated_noticebar"
     },
     {
-      "UUID": "56e97a40-ef12-4498-a531-ed826158688a",
       "type": "Separator",
       "name": "Virtual:加急特快"
     },
     {
-      "UUID": "cf3583e8-b6cb-4cc9-a6fb-4f2d2a8c3655",
       "type": "Version",
       "name": "AprilFools:23w13a_or_b"
     },
     {
-      "UUID": "dad7dffb-3e4a-4de3-aa9f-30e5671a8baf",
       "type": "Normal",
-      "name": "AprilFools:April2023Mojang",
-      "isswaped": true
+      "name": "AprilFools:April2023Mojang"
     },
     {
-      "UUID": "da30e674-bfba-40e4-8a61-fe5fb3015261",
       "type": "Separator",
       "name": "Virtual:最新新闻"
     },
     {
-      "UUID": "a795aeb4-de40-4221-84fe-70e198235613",
       "type": "Normal",
       "name": "Normals:nhpTestHint"
     },
     {
-      "UUID": "8f356519-3b8f-485a-a068-543c6e10503b",
       "type": "Custom",
       "name": "Elements:jumpCard"
     },
     {
-      "UUID": "1d1905d3-8e4d-4ecf-8930-bce1128f39d6",
       "type": "Custom",
       "name": "Elements:RefreshBar"
     },
     {
-      "UUID": "ec6b94aa-4bc0-4029-90c4-72cde308d88d",
       "type": "Custom",
       "name": "Elements:Footer"
     }
