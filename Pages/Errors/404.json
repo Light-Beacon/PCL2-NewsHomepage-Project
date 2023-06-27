@@ -4,17 +4,8 @@
   "NOSTYLE": true,
   "IsHidden": true,
   "cards": [
-    {
-      "type": "Custom",
-      "name": "Elements:animated_noticebar"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:404"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:RefreshBar"
-    }
+    "Elements:animated_noticebar",
+    "Elements:404",
+    "Elements:RefreshBar"
   ]
 }

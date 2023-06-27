@@ -2,41 +2,14 @@
   "name": "四月是你的谎言",
   "outputPath": "AprilFools.xaml",
   "cards": [
-    {
-      "type": "Custom",
-      "name": "Elements:animated_noticebar"
-    },
-    {
-      "type": "Separator",
-      "name": "Virtual:加急特快"
-    },
-    {
-      "type": "Version",
-      "name": "AprilFools:23w13a_or_b"
-    },
-    {
-      "type": "Normal",
-      "name": "AprilFools:April2023Mojang"
-    },
-    {
-      "type": "Separator",
-      "name": "Virtual:最新新闻"
-    },
-    {
-      "type": "Normal",
-      "name": "Normals:nhpTestHint"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:jumpCard"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:RefreshBar"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:Footer"
-    }
+    "Elements:animated_noticebar",
+    "Virtual:加急特快",
+    "+AprilFools:23w13a_or_b",
+    "-AprilFools:April2023Mojang",
+    "Virtual:最新新闻",
+    "Normals:nhpTestHint",
+    "Elements:jumpCard",
+    "Elements:RefreshBar",
+    "Elements:Footer"
   ]
 }

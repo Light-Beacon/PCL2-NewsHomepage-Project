@@ -1,47 +1,17 @@
 {
   "name": "主页面",
   "outputPath": "News.xaml",
+  "genmode": "UnswapFirstVersion",
   "cards": [
-    {
-      "type": "Custom",
-      "name": "Elements:animated_noticebar"
-    },
-    {
-      "type": "Separator",
-      "name": "Virtual:最新新闻"
-    },
-    {
-      "type": "Version",
-      "name": "1_20:1.20.1"
-    },
-    {
-      "type": "Separator",
-      "name": "Virtual:历史版本"
-    },
-    {
-      "type": "Version",
-      "name": "1_20:1.20",
-      "isswaped": true
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:jumpCard"
-    },
-    {
-      "type": "Separator",
-      "name": "Virtual:周边新闻"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:feedback_hint"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:RefreshBar"
-    },
-    {
-      "type": "Custom",
-      "name": "Elements:Footer"
-    }
+    "Elements:animated_noticebar",
+    "Virtual:最新新闻",
+    "1_20:1.20.1",
+    "Virtual:历史版本",
+    "1_20:1.20",
+    "Elements:jumpCard",
+    "Virtual:周边新闻",
+    "Elements:feedback_hint",
+    "Elements:RefreshBar",
+    "Elements:Footer"
   ]
 }
