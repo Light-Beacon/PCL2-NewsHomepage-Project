@@ -1,7 +1,6 @@
 {
   "name": "主页面",
   "outputPath": "News.xaml",
-  "UUID": "b958dae4-b57a-45a1-bcde-68e7d2a3ae8c",
   "cards": [
     {
       "type": "Custom",
