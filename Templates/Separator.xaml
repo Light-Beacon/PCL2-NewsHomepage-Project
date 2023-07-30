@@ -1,10 +1,1 @@
-<Grid Margin="0,0,0,15">
-    <Grid.ColumnDefinitions>
-        <ColumnDefinition Width="1*"/>
-        <ColumnDefinition Width="100"/>
-        <ColumnDefinition Width="1*"/>
-    </Grid.ColumnDefinitions>
-    <Line X1="0" X2="100" Stroke="{DynamicResource ColorBrush5}" StrokeThickness="1.5" HorizontalAlignment="Center" Stretch="Fill" Grid.Column="0" />
-    <TextBlock Text="{$content}" HorizontalAlignment="Center" FontSize="14" Foreground="{DynamicResource ColorBrush5}" Grid.Column="1" VerticalAlignment="Center" />
-    <Line X1="0" X2="100" Stroke="{DynamicResource ColorBrush5}" StrokeThickness="1.5" HorizontalAlignment="Center" Stretch="Fill" Grid.Column="2" />
-</Grid>
+<ContentControl Content="{$content}" Template="{StaticResource Separator}"/>
