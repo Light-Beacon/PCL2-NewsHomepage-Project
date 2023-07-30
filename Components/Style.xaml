@@ -175,7 +175,7 @@
   <Setter Property="Margin" Value="8px,2px" />
 </Style>
 <!-- TEMPLATES -->
-<ControlTemplate x:Key="Seperator" TargetType="ContentControl">
+<ControlTemplate x:Key="Separator" TargetType="ContentControl">
   <Grid Margin="0,0,0,15">
     <Grid.ColumnDefinitions>
       <ColumnDefinition Width="1*" />
