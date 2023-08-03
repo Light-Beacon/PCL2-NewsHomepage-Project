@@ -456,6 +456,18 @@
       "websiteUrl": "https://minecraft.net/article/minecraft--java-edition-1-20-1",
       "footnote": "本文来源 Fandom Minecraft Wiki",
       "resource": "1.20.1.md"
+    },
+    {
+      "name": "23w31a",
+      "type": "version",
+      "versionID": "23w31a",
+      "versionType": "Snapshot",
+      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w31a.png",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w31a",
+      "mcbbsUrl": "https://www.mcbbs.net/thread-1461358-1-1.html",
+      "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w31a",
+      "footnote": "本文图文来源 Don_Trueno（MCBBBS）",
+      "resource": "23w31a.md"
     }
   ]
 }
