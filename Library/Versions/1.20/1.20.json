@@ -468,6 +468,18 @@
       "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w31a",
       "footnote": "本文图文来源 Don_Trueno（MCBBBS）",
       "resource": "23w31a.md"
+    },
+    {
+      "name": "23w32a",
+      "type": "version",
+      "versionID": "23w32a",
+      "versionType": "Snapshot",
+      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/23w32a.png",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w32a",
+      "mcbbsUrl": "https://www.mcbbs.net/thread-1462843-1-1.html",
+      "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w32a",
+      "footnote": "",
+      "resource": "23w32a.md"
     }
   ]
 }
