@@ -1,138 +1,6 @@
 {
-  "name": "1_20",
+  "name": "Vers23",
   "cards": [
-    {
-      "name": "22w42a",
-      "type": "version",
-      "versionID": "22w42a",
-      "versionType": "Snapshot",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w42a.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/22w42a",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1390920-1-1.html",
-      "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w42a",
-      "footnote": "可能不是最终译名",
-      "resource": "22w42a.md"
-    },
-    {
-      "name": "22w43a",
-      "type": "version",
-      "versionID": "22w43a",
-      "versionType": "Snapshot",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w43a.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/22w43a",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1391775-1-1.html",
-      "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w43a",
-      "footnote": "本文翻译取自sky_tianle（MCBBS），漏洞翻译由 SPXX 志愿者提供",
-      "resource": "22w43a.md"
-    },
-    {
-      "name": "22w44a",
-      "type": "version",
-      "versionID": "22w44a",
-      "versionType": "Snapshot",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w44a.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/22w44a",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1393549-1-1.html",
-      "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w44a",
-      "footnote": "本文来源：苦力怕553（MCBBS）、漏洞翻译由 SPXX 提供",
-      "resource": "22w44a.md"
-    },
-    {
-      "name": "22w45a",
-      "type": "version",
-      "versionID": "22w45a",
-      "versionType": "Snapshot",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w45a.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/22w45a",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1395379-1-1.html",
-      "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w45a",
-      "footnote": "部分译文来自cutemiku，漏洞翻译由SPXX提供",
-      "resource": "22w45a.md"
-    },
-    {
-      "name": "22w46a",
-      "type": "version",
-      "versionID": "22w46a",
-      "versionType": "Snapshot",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/22w46a.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/22w46a",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1397102-1-1.html",
-      "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-22w46a",
-      "footnote": "本文翻译由苦力怕553（MCBBS）提供，略有更改，漏洞翻译由SPXX提供",
-      "resource": "22w46a.md"
-    },
-    {
-      "name": "1.19.3-pre1",
-      "type": "version",
-      "versionID": "1.19.3-pre1",
-      "versionType": "Pre_Release",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-pre1.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-pre1",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1398770-1-1.html",
-      "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-pre-release-1",
-      "footnote": "本文来源：苦力怕533，漏洞翻译由SPXX提供",
-      "resource": "1.19.3-pre1.md"
-    },
-    {
-      "name": "1.19.3-pre2",
-      "type": "version",
-      "versionID": "1.19.3-pre2",
-      "versionType": "Pre_Release",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-pre1.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-pre2",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1399007-1-1.html",
-      "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-pre-release-1",
-      "footnote": "本文来源：苦力怕533，漏洞翻译由SPXX提供",
-      "resource": "1.19.3-pre2.md"
-    },
-    {
-      "name": "1.19.3-pre3",
-      "type": "version",
-      "versionID": "1.19.3-pre3",
-      "versionType": "Pre_Release",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-pre3.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-pre3",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1400691-1-1.html",
-      "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-pre-release-3",
-      "footnote": "漏洞翻译由SPXX提供",
-      "resource": "1.19.3-pre3.md"
-    },
-    {
-      "name": "1.19.3-rc1",
-      "type": "version",
-      "versionID": "1.19.3-rc1",
-      "versionType": "Release_Candidate",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc1.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-rc1",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1401299-1-1.html",
-      "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-1",
-      "footnote": "漏洞翻译由SPXX提供",
-      "resource": "1.19.3-rc1.md"
-    },
-    {
-      "name": "1.19.3-rc2",
-      "type": "version",
-      "versionID": "1.19.3-rc2",
-      "versionType": "Release_Candidate",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc2.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-rc2",
-      "mcbbsUrl": "https://www.mcbbs.net/thread-1401299-1-1.html",
-      "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-1",
-      "footnote": "漏洞翻译由SPXX提供",
-      "resource": "1.19.3-rc2.md"
-    },
-    {
-      "name": "1.19.3-rc3",
-      "type": "version",
-      "versionID": "1.19.3-rc3",
-      "versionType": "Release_Candidate",
-      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_20/1.19.3-rc3.png",
-      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.3-rc3",
-      "mcbbsUrl": "未发布",
-      "websiteUrl": "https://minecraft.net/article/minecraft-1-19-3-release-candidate-3",
-      "footnote": "",
-      "resource": "1.19.3-rc3.md"
-    },
     {
       "name": "23w03a",
       "type": "version",
@@ -264,6 +132,18 @@
       "websiteUrl": "https://minecraft.net/article/minecraft-1-19-4-release-candidate-3",
       "footnote": "",
       "resource": "1.19.4-rc3.md"
+    },
+    {
+      "name": "1.19.4",
+      "type": "version",
+      "versionID": "1.19.4",
+      "versionType": "Release",
+      "headerImageUrl": "https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19.4.png",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.19.4",
+      "mcbbsUrl": "https://www.mcbbs.net/thread-1433267-1-1.html",
+      "websiteUrl": "https://minecraft.net/article/minecraft-java-edition-1-19-4",
+      "footnote": "考古系统终于被 Mojang 考古出来了.jpg",
+      "resource": "1.19.4.md"
     },
     {
       "name": "23w12a",
