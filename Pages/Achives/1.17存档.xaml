@@ -157,9 +157,9 @@
 		<StackPanel Margin="30,40,30,20">
 			<Border Style="{StaticResource verImgBdr}">
 				<Border.Background>
-					<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_17/1_17_1/1-17-1-release-header.jpg" Stretch="Uniform" />
+					<ImageBrush ImageSource="https://pic.imgdb.cn/item/64db947d661c6c8e54cf4a7b.jpg" Stretch="Uniform" />
 				</Border.Background>
-				<Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_17/1_17_1/1-17-1-release-header.jpg" Opacity="0" />
+				<Image Source="https://pic.imgdb.cn/item/64db947d661c6c8e54cf4a7b.jpg" Opacity="0" />
 			</Border>
 			<Border Style="{StaticResource verTxtBdr}">
 				<TextBlock Style="{StaticResource verTxtBlk}" Text="1.17.1" />
@@ -222,9 +222,9 @@
 		<StackPanel Margin="30,40,30,20">
 			<Border Style="{StaticResource verImgBdr}">
 				<Border.Background>
-					<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1-17-release-header.jpg" Stretch="Uniform" />
+					<ImageBrush ImageSource="https://pic.imgdb.cn/item/64db94f2661c6c8e54d0965b.jpg" Stretch="Uniform" />
 				</Border.Background>
-				<Image Source="https://www.lightbeacon.top/pnh/newsimgs/1-17-release-header.jpg" Opacity="0" />
+				<Image Source="https://pic.imgdb.cn/item/64db94f2661c6c8e54d0965b.jpg" Opacity="0" />
 			</Border>
 			<Border Style="{StaticResource verTxtBdr}">
 				<TextBlock Style="{StaticResource verTxtBlk}" Text="1.17" />
@@ -1335,9 +1335,9 @@
 		<StackPanel Margin="30,40,30,20">
 			<Border Style="{StaticResource verImgBdr}">
 				<Border.Background>
-					<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1-17-1-release-candidate-1-header.jpg" Stretch="Uniform" />
+					<ImageBrush ImageSource="https://pic.imgdb.cn/item/64db9505661c6c8e54d0ca6a.jpg" Stretch="Uniform" />
 				</Border.Background>
-				<Image Source="https://www.lightbeacon.top/pnh/newsimgs/1-17-1-release-candidate-1-header.jpg" Opacity="0" />
+				<Image Source="https://pic.imgdb.cn/item/64db9505661c6c8e54d0ca6a.jpg" Opacity="0" />
 			</Border>
 			<Border Style="{StaticResource verTxtBdr}">
 				<TextBlock Style="{StaticResource verTxtBlk}" Text="1.17.1 RC2" />
@@ -1366,9 +1366,9 @@
 		<StackPanel Margin="30,40,30,20">
 			<Border Style="{StaticResource verImgBdr}">
 				<Border.Background>
-					<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1-17-1-release-candidate-1-header.jpg" Stretch="Uniform" />
+					<ImageBrush ImageSource="https://pic.imgdb.cn/item/64db9505661c6c8e54d0ca6a.jpg" Stretch="Uniform" />
 				</Border.Background>
-				<Image Source="https://www.lightbeacon.top/pnh/newsimgs/1-17-1-release-candidate-1-header.jpg" Opacity="0" />
+				<Image Source="https://pic.imgdb.cn/item/64db9505661c6c8e54d0ca6a.jpg" Opacity="0" />
 			</Border>
 			<Border Style="{StaticResource verTxtBdr}">
 				<TextBlock Style="{StaticResource verTxtBlk}" Text="1.17.1 RC1" />
@@ -2278,7 +2278,7 @@
 	</local:MyCard>
 
 	<!--21w17a-->
-	<local:MyCard Margin="0,0,0,15" Title="2‏‍‌‎‌‎1w17a" CanSwap="True" IsSwaped="True">
+	<local:MyCard Margin="0,0,0,15" Title="21w17a" CanSwap="True" IsSwaped="True">
 		<!--Header-->
 		<StackPanel Margin="30,40,30,20">
 			<Border Style="{StaticResource verImgBdr}">
@@ -2365,7 +2365,7 @@
 	</local:MyCard>
 
 	<!--21w16a-->
-	<local:MyCard Margin="0,0,0,15" Title="2‏‍‌‎‌‎1w16a" CanSwap="True" IsSwaped="True">
+	<local:MyCard Margin="0,0,0,15" Title="21w16a" CanSwap="True" IsSwaped="True">
 		<!--Header-->
 		<StackPanel Margin="30,40,30,20">
 			<Border Style="{StaticResource verImgBdr}">
@@ -2463,7 +2463,7 @@
 	</local:MyCard>
 
 	<!--21w11a-->
-	<local:MyCard Margin="0,0,0,15" Title="2‏‍‌‎‌‎1w15a" CanSwap="True" IsSwaped="True">
+	<local:MyCard Margin="0,0,0,15" Title="21w15a" CanSwap="True" IsSwaped="True">
 		<!--Header-->
 		<StackPanel Margin="30,40,30,20">
 			<Border Style="{StaticResource verImgBdr}">

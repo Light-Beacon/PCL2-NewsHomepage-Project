@@ -5,8 +5,8 @@
 <ColumnDefinition Width="12*"/>
 <ColumnDefinition Width="12*"/>
 </Grid.ColumnDefinitions>
-<local:MyButton Style="{StaticResource Read0}" EventData="{$wikilink}" ColorType="Highlight" />
-<local:MyButton Style="{StaticResource Read1}" EventData="{$mcbbslink}" />
-<local:MyButton Style="{StaticResource Read2}" EventData="{$officallink}" />
+<local:MyButton Style="{StaticResource Read0}" EventData="{$wikilink}" ColorType="Highlight" {$EnableWikiSuffix} />
+<local:MyButton Style="{StaticResource Read1}" EventData="{$mcbbslink}" {$EnableBBSSuffix}/>
+<local:MyButton Style="{StaticResource Read2}" EventData="{$officallink}" {$EnableOFLSuffix} />
 </Grid>
 </GroupBox>

@@ -3,9 +3,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-rc1.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:1.19-rc1.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-rc1.png" Opacity="0" />
+		  <Image Source="MapedImage:1.19-rc1.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="1.19 RC1" />
@@ -65,9 +65,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre4.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:1.19-pre4.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre4.png" Opacity="0" />
+		  <Image Source="MapedImage:1.19-pre4.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="1.19 PRE5" />
@@ -127,9 +127,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre4.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:1.19-pre4.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre4.png" Opacity="0" />
+		  <Image Source="MapedImage:1.19-pre4.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="1.19 PRE4" />
@@ -189,9 +189,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre2.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:1.19-pre2.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre2.png" Opacity="0" />
+		  <Image Source="MapedImage:1.19-pre2.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="1.19 PRE3" />
@@ -284,9 +284,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre1.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:1.19-pre1.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/1.19-pre1.png" Opacity="0" />
+		  <Image Source="MapedImage:1.19-pre1.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="1.19-pre1" />
@@ -374,9 +374,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w19a.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w19a.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w19a.png" Opacity="0" />
+		  <Image Source="MapedImage:22w19a.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W19A" />
@@ -497,9 +497,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w18a.jpg" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w18a.jpg" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w18a.jpg" Opacity="0" />
+		  <Image Source="MapedImage:22w18a.jpg" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W18A" />
@@ -572,9 +572,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w17a.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w17a.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w17a.png" Opacity="0" />
+		  <Image Source="MapedImage:22w17a.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W17A" />
@@ -693,9 +693,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w16a.jpg" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w16a.jpg" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w16a.jpg" Opacity="0" />
+		  <Image Source="MapedImage:22w16a.jpg" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W16A/B" />
@@ -858,9 +858,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w15a.jpg" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w15a.jpg" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w15a.jpg" Opacity="0" />
+		  <Image Source="MapedImage:22w15a.jpg" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W15A" />
@@ -981,9 +981,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w14a.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w14a.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w14a.png" Opacity="0" />
+		  <Image Source="MapedImage:22w14a.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W14A" />
@@ -1027,7 +1027,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="回响碎片" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w14a/Echo_Shard.png" />
+				  <Image Source="MapedImage:Echo_Shard.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1037,7 +1037,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="追溯指针" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w14a/Recovery_Compass.gif" />
+				  <Image Source="MapedImage:Recovery_Compass.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1106,9 +1106,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w13a.jpg" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w13a.jpg" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w13a.jpg" Opacity="0" />
+		  <Image Source="MapedImage:22w13a.jpg" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W13A" />
@@ -1152,7 +1152,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Reinforced Deepslate" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w13a/Reinforced_Deepslate.png" />
+				  <Image Source="MapedImage:Reinforced_Deepslate.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1170,7 +1170,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="悦灵刷怪蛋" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w13a/Allay_Spawn_Egg.png" />
+				  <Image Source="MapedImage:Allay_Spawn_Egg.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1188,7 +1188,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="悦灵" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w13a/Allay.gif" />
+				  <Image Source="MapedImage:Allay.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1256,9 +1256,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w12a.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w12a.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w12a.png" Opacity="0" />
+		  <Image Source="MapedImage:22w12a.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W12A" />
@@ -1302,7 +1302,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="运输船" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w12a/Oak_Boat_with_Chest.png" />
+				  <Image Source="MapedImage:Oak_Boat_with_Chest.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1312,7 +1312,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="监守者刷怪蛋" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w12a/Warden_Spawn_Egg.png" />
+				  <Image Source="MapedImage:Warden_Spawn_Egg.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1330,7 +1330,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="监守者" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w12a/Warden.gif" />
+				  <Image Source="MapedImage:Warden.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1402,9 +1402,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w11a.jpg" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:22w11a.jpg" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_19/22w11a.jpg" Opacity="0" />
+		  <Image Source="MapedImage:22w11a.jpg" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="22W11A" />
@@ -1668,7 +1668,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1678,7 +1678,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk Catalyst（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_Catalyst_Bloom_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_Catalyst_Bloom_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1688,7 +1688,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk Shrieker（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_Shrieker_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_Shrieker_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1698,7 +1698,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk Vein（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_Vein_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_Vein_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1847,9 +1847,9 @@
 	  <StackPanel Margin="30,40,30,20">
 		<Border Style="{StaticResource verImgBdr}">
 		  <Border.Background>
-			<ImageBrush ImageSource="https://www.lightbeacon.top/pnh/newsimgs/1_18/deepdark1.png" Stretch="Uniform" />
+			<ImageBrush ImageSource="MapedImage:deepdark1.png" Stretch="Uniform" />
 		  </Border.Background>
-		  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deepdark1.png" Opacity="0" />
+		  <Image Source="MapedImage:deepdark1.png" Opacity="0" />
 		</Border>
 		<Border Style="{StaticResource verTxtBdr}">
 		  <TextBlock Style="{StaticResource verTxtBlk}" Text="Deep Dark" />
@@ -1894,7 +1894,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Reinforced Deepslate（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Reinforced_Deepslate_JE1.png" />
+				  <Image Source="MapedImage:Reinforced_Deepslate_JE1.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1904,7 +1904,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1914,7 +1914,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk Catalyst（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_Catalyst_Bloom_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_Catalyst_Bloom_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1924,7 +1924,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk Shrieker（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_Shrieker_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_Shrieker_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1934,7 +1934,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Sculk Vein（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Sculk_Vein_BE1.gif" />
+				  <Image Source="MapedImage:Sculk_Vein_BE1.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1952,7 +1952,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="刷怪蛋（Warden）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Warden_Spawn_Egg.png" />
+				  <Image Source="MapedImage:Warden_Spawn_Egg.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1970,7 +1970,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Warden（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Warden.gif" />
+				  <Image Source="MapedImage:Warden.gif" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1988,7 +1988,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Ancient City（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Ancient_City.png" />
+				  <Image Source="MapedImage:Ancient_City.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
@@ -1998,7 +1998,7 @@
 				  <Border Style="{StaticResource NameBdr}">
 					<TextBlock Text="Deep Dark（暂未确认译名）" />
 				  </Border>
-				  <Image Source="https://www.lightbeacon.top/pnh/newsimgs/1_18/deep_dark_experimental_snapshot_1/Deep_Dark.png" />
+				  <Image Source="MapedImage:Deep_Dark.png" />
 				</StackPanel>
 			  </Border>
 			</local:MyButton>
