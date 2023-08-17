@@ -360,6 +360,18 @@
       "websiteUrl": "https://minecraft.net/zh-hans/article/minecraft-snapshot-23w32a",
       "footnote": "",
       "resource": "23w32a.md"
+    },
+    {
+      "name": "23w33a",
+      "type": "version",
+      "versionID": "23w33a",
+      "versionType": "Snapshot",
+      "headerImageUrl": "23w33a.jpg",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/23w33a",
+      "mcbbsUrl": "",
+      "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-snapshot-23w33a",
+      "footnote": "脚注",
+      "resource": "23w33a.md"
     }
   ]
 }
