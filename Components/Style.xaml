@@ -89,7 +89,7 @@
   <Setter Property="VerticalAlignment" Value="Top" />
   <Setter Property="BorderBrush" Value="{DynamicResource ColorBrush3}" />
   <Setter Property="CornerRadius" Value="7" />
-  <Setter Property="MaxHeight" Value="300" />
+  <Setter Property="MaxHeight" Value="270" />
 </Style>
 <Style x:Key="verTxtBlk" TargetType="TextBlock">
   <Setter Property="HorizontalAlignment" Value="Center" />
