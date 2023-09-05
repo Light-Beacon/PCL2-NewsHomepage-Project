@@ -384,6 +384,18 @@
       "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-snapshot-23w35a",
       "footnote": "",
       "resource": "23w35a.md"
+    },
+    {
+      "name": "1.20.2-pre1",
+      "type": "version",
+      "versionID": "1.20.2-pre1",
+      "versionType": "Pre_Release",
+      "headerImageUrl": "1.20.2-pre1.jpg",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20.2-pre1",
+      "mcbbsUrl": "https://www.mcbbs.net/thread-1468347-1-1.html",
+      "websiteUrl": "https://minecraft.net/article/minecraft-1-20-2-pre-release-1",
+      "footnote": "",
+      "resource": "1.20.2-pre1.md"
     }
   ]
 }
