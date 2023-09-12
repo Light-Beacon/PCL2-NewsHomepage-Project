@@ -386,7 +386,7 @@
       "resource": "23w35a.md"
     },
     {
-      "name": "1.20.2-pre1&2",
+      "name": "1.20.2-pre1",
       "type": "version",
       "versionID": "1.20.2-pre1",
       "versionType": "Pre_Release",
@@ -396,6 +396,18 @@
       "websiteUrl": "https://minecraft.net/article/minecraft-1-20-2-pre-release-1",
       "footnote": "",
       "resource": "1.20.2-pre1.md"
+    },
+    {
+      "name": "1.20.2-pre3",
+      "type": "version",
+      "versionID": "1.20.2-pre3",
+      "versionType": "Pre_Release",
+      "headerImageUrl": "1.20.2-pre3.jpg",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20.2-pre3",
+      "mcbbsUrl": "https://www.mcbbs.net/thread-1469247-1-1.html",
+      "websiteUrl": "https://minecraft.net/article/minecraft-1-20-2-pre-release-3",
+      "footnote": "",
+      "resource": "1.20.2-pre3.md"
     }
   ]
 }
