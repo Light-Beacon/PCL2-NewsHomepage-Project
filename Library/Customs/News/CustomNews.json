@@ -12,6 +12,12 @@
       "title": "MCLG发售",
       "name": "mclg",
       "resource": "mclg.xaml"
+    },
+    {
+      "type": "custom",
+      "title": "Mincraft live 2023",
+      "name": "mcl2023",
+      "resource": "mcl2023.xaml"
     }
   ]
 }
