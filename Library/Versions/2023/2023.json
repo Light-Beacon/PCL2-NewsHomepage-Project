@@ -432,6 +432,18 @@
       "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-20-2-release-candidate-1",
       "footnote": "",
       "resource": "1.20.2-rc1.md"
+    },
+    {
+      "name": "1.20.2-rc2",
+      "type": "version",
+      "versionID": "1.20.2-rc2",
+      "versionType": "Release_Candidate",
+      "headerImageUrl": "1.20.2-rc2.jpg",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20.2-rc2",
+      "mcbbsUrl": "",
+      "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-20-2-release-candidate-2",
+      "footnote": "",
+      "resource": "1.20.2-rc2.md"
     }
   ]
 }
