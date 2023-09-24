@@ -444,6 +444,18 @@
       "websiteUrl": "https://www.minecraft.net/zh-hans/article/minecraft-1-20-2-release-candidate-2",
       "footnote": "",
       "resource": "1.20.2-rc2.md"
+    },
+    {
+      "name": "1.20.2",
+      "type": "version",
+      "versionID": "1.20.2",
+      "versionType": "Release",
+      "headerImageUrl": "1.20.2.png",
+      "wikiUrl": "https://minecraft.fandom.com/zh/wiki/Java版1.20.2",
+      "mcbbsUrl": "https://www.mcbbs.net/thread-1470526-1-1.html",
+      "websiteUrl": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-2",
+      "footnote": "本文部分来源 Don_Trueno （MCBBS）的译文",
+      "resource": "1.20.2.md"
     }
   ]
 }
