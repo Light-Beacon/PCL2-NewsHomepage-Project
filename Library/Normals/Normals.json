@@ -53,7 +53,7 @@
       "type": "normal",
       "title": "写入 Hosts 文件改善网络环境",
       "name": "Hostsfix",
-      "resource": "hostsfix.md"
+      "resource": "Hostsfix.md"
     }
   ]
 }
