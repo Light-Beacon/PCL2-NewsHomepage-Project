@@ -48,6 +48,12 @@
       "title": "突发事件 - 部分 Mod 与服务器插件被植入恶意程序",
       "name": "CFAlert",
       "resource": "CFAlert.md"
+    },
+    {
+      "type": "normal",
+      "title": "写入 Hosts 文件改善网络环境",
+      "name": "Hostsfix",
+      "resource": "Hostsfix.md"
     }
   ]
 }
