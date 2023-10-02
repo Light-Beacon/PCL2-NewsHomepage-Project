@@ -19,10 +19,10 @@ imagemap = ~\ImageMap.imdata
 
 #pages
 ~\Pages\News.json
-~\Pages\Achives\1.17存档.xaml
-~\Pages\Achives\1.18存档.xaml
-~\Pages\Achives\1.19.json
-~\Pages\Achives\1.20.json
+~\Pages\Archives\1.17存档.xaml
+~\Pages\Archives\1.18存档.xaml
+~\Pages\Archives\1.19.json
+~\Pages\Archives\1.20.json
 ~\Pages\April\2023.json
 ~\Pages\Errors\404.json
 ~\Pages\TestPage.json
